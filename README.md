@@ -33,3 +33,6 @@ retro game development book helper
 * [소스코드 다운로드](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev)
 * [msx-blockbreaker](https://github.com/aburi6800/msx-blockbreaker)
  
+* [자바 SDK 설치](https://www.oracle.com/kr/java/technologies/javase-downloads.html)
+* [glass 자바 라이브러리](http://www.grauw.nl/projects/glass/)
+
