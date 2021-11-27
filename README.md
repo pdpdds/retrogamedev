@@ -42,3 +42,5 @@ retro game development book helper
 [8bitworkshop](https://8bitworkshop.com)
 [8bitworkshop IDE](https://8bitworkshop.com/v3.8.0/?platform=msx&file=helloworld.asm)
 
+[8비트 워크샵 매뉴얼](http://8bitworkshop.com/blog/docs/ide.md.html)
+
