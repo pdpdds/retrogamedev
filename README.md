@@ -21,3 +21,8 @@ retro game development book helper
 * [http://www.jamsx.com](http://www.jamsx.com)
 
  * [MSX Floppy Disk Manager](https://sonono.net/blog/2021/03/04/msx-floppy-disk-manager%ef%bc%88%ce%b1%e7%89%88%ef%bc%89%e3%81%ae%e5%85%ac%e9%96%8b/)
+
+> 스피드 게임
+ * [게임 플레이 영상](https://www.youtube.com/watch?v=XLkCvbMeQgM)
+ * [스피드 게임 소스코드](https://github.com/imays76/SpeedGame)
+
