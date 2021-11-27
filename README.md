@@ -15,3 +15,7 @@ retro game development book helper
 *  [WebMSX](https://webmsx.org/)
 *  [openMSX](https://openmsx.org/)
 *  [fMSX](https://fms.komkon.org/fMSX/)
+
+> MSX Game Play
+[https://www.file-hunter.com](https://www.file-hunter.com)
+[http://www.jamsx.com](http://www.jamsx.com)
