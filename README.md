@@ -36,3 +36,9 @@ retro game development book helper
 * [자바 SDK 설치](https://www.oracle.com/kr/java/technologies/javase-downloads.html)
 * [glass 자바 라이브러리](http://www.grauw.nl/projects/glass/)
 
+* [transball](https://github.com/santiontanon/transballmsx)
+
+
+[8bitworkshop](https://8bitworkshop.com)
+[8bitworkshop IDE](https://8bitworkshop.com/v3.8.0/?platform=msx&file=helloworld.asm)
+
