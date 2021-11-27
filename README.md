@@ -32,6 +32,8 @@ retro game development book helper
 * [Modern MSX BASIC Game Development](https://www.amazon.com/Modern-MSX-BASIC-Game-Development-ebook/dp/B0996Y5CS2/ref=sr_1_2?dchild=1&keywords=Modern+MSX+BASIC+Game+Development&qid=1626270330&sr=8-2)
 * [소스코드 다운로드](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev)
 * [msx-blockbreaker](https://github.com/aburi6800/msx-blockbreaker)
+
+[MSX BASIC editor](http://ni.x0.com/msx/tabmegx)
  
 * [자바 SDK 설치](https://www.oracle.com/kr/java/technologies/javase-downloads.html)
 * [glass 자바 라이브러리](http://www.grauw.nl/projects/glass/)
