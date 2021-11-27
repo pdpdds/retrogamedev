@@ -20,11 +20,16 @@ retro game development book helper
 * [https://www.file-hunter.com](https://www.file-hunter.com)
 * [http://www.jamsx.com](http://www.jamsx.com)
 
- * [MSX Floppy Disk Manager](https://sonono.net/blog/2021/03/04/msx-floppy-disk-manager%ef%bc%88%ce%b1%e7%89%88%ef%bc%89%e3%81%ae%e5%85%ac%e9%96%8b/)
+* [MSX Floppy Disk Manager](https://sonono.net/blog/2021/03/04/msx-floppy-disk-manager%ef%bc%88%ce%b1%e7%89%88%ef%bc%89%e3%81%ae%e5%85%ac%e9%96%8b/)
 
 > 스피드 게임
- * [게임 플레이 영상](https://www.youtube.com/watch?v=XLkCvbMeQgM)
- * [스피드 게임 소스코드](https://github.com/imays76/SpeedGame)
+* [게임 플레이 영상](https://www.youtube.com/watch?v=XLkCvbMeQgM)
+* [스피드 게임 소스코드](https://github.com/imays76/SpeedGame)
 
-[컴파일 익스플로러](https://godbolt.org/)  
-[파이썬 온라인 컴파일러](https://www.programiz.com/python-programming/online-compiler/)
+* [컴파일 익스플로러](https://godbolt.org/)  
+* [파이썬 온라인 컴파일러](https://www.programiz.com/python-programming/online-compiler/)
+
+* [Modern MSX BASIC Game Development](https://www.amazon.com/Modern-MSX-BASIC-Game-Development-ebook/dp/B0996Y5CS2/ref=sr_1_2?dchild=1&keywords=Modern+MSX+BASIC+Game+Development&qid=1626270330&sr=8-2)
+* [소스코드 다운로드](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev)
+* [msx-blockbreaker](https://github.com/aburi6800/msx-blockbreaker)
+ 
