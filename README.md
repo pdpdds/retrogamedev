@@ -17,5 +17,7 @@ retro game development book helper
 *  [fMSX](https://fms.komkon.org/fMSX/)
 
 > MSX Game Play
-[https://www.file-hunter.com](https://www.file-hunter.com)
-[http://www.jamsx.com](http://www.jamsx.com)
+* [https://www.file-hunter.com](https://www.file-hunter.com)
+* [http://www.jamsx.com](http://www.jamsx.com)
+
+ * [MSX Floppy Disk Manager](https://sonono.net/blog/2021/03/04/msx-floppy-disk-manager%ef%bc%88%ce%b1%e7%89%88%ef%bc%89%e3%81%ae%e5%85%ac%e9%96%8b/)
