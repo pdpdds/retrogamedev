@@ -46,3 +46,10 @@ retro game development book helper
 
 [8비트 워크샵 매뉴얼](http://8bitworkshop.com/blog/docs/ide.md.html)
 
+## Chapter 4
+
+* [스네이크바이트](https://wikidocs.net/135834)
+* [소코반](https://wikidocs.net/135835)
+* [테트리스](https://wikidocs.net/135836)
+* [브레이크아웃](https://wikidocs.net/135833)
+
