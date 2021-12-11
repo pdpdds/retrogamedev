@@ -49,6 +49,10 @@ retro game development book helper
 
 ## Chapter 4
 
+## Chapter 6
+
+[tiled 맵 사용법](https://thd0011.tistory.com/12)
+
 * [스네이크바이트](https://wikidocs.net/135834)
 * [소코반](https://wikidocs.net/135835)
 * [테트리스](https://wikidocs.net/135836)
