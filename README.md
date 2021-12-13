@@ -60,3 +60,8 @@ retro game development book helper
 
 [비쥬얼 스튜디오 이전버전 다운받기](https://www.google.com/search?q=visual+studio+2019+community+download&rlz=1C1CHZN_koKR980KR980&oq=visual+&aqs=chrome.2.69i57j69i59l3j35i39j0i433i512j0i131i433i512j0i433i512l3.2168j0j15&sourceid=chrome&ie=UTF-8)
 
+## Chapter 14
+### 아미가
+[WINUAE 4.4.0](https://www.winuae.net/2020/07/02/winuae-4-4-0)
+[Kickstart v1.3 rev 34.5](http://amigamuseum.emu-france.info/Fichiers/ADF/-%20Kickstarts/KS-ROMs)
+
