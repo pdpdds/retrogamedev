@@ -62,6 +62,6 @@ retro game development book helper
 
 ## Chapter 14
 ### 아미가
-[WINUAE 4.4.0](https://www.winuae.net/2020/07/02/winuae-4-4-0)
-[Kickstart v1.3 rev 34.5](http://amigamuseum.emu-france.info/Fichiers/ADF/-%20Kickstarts/KS-ROMs)
+[WINUAE 4.4.0](https://www.winuae.net/2020/07/02/winuae-4-4-0)  
+[Kickstart v1.3 rev 34.5](http://amigamuseum.emu-france.info/Fichiers/ADF/-%20Kickstarts/KS-ROMs)  
 
