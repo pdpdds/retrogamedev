@@ -63,6 +63,7 @@ retro game development book helper
 
 ### fusion C 1.2
 [MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
+[FUSION-C: MSX C Library complete journey](https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612)  
 
 ## Chapter 14
 ### 아미가
