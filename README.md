@@ -71,6 +71,8 @@ retro game development book helper
 [Kickstart v1.3 rev 34.5](http://amigamuseum.emu-france.info/Fichiers/ADF/-%20Kickstarts/KS-ROMs)  
 [AMIGA Game DOWNLOAD](https://www.planetemu.net/roms/commodore-amiga-games-adf)  
 [WorkBench](http://amigamuseum.emu-france.info/Fichiers/ADF/-%20Workbench)
+[Amiga C/C++ Compile, Debug & Profile](https://marketplace.visualstudio.com/items?itemName=BartmanAbyss.amiga-debug)
+
 ### 메가 드라이브
 [SGDK](https://github.com/Stephane-D/SGDK)  
 [자바 다운로드](https://java.com/ko/download/ie_manual.jsp?locale=ko)
