@@ -73,6 +73,13 @@ retro game development book helper
 [WorkBench](http://amigamuseum.emu-france.info/Fichiers/ADF/-%20Workbench)
 [Amiga C/C++ Compile, Debug & Profile](https://marketplace.visualstudio.com/items?itemName=BartmanAbyss.amiga-debug)
 
+### 패밀리 컴퓨터
+[에뮬레이터](http://www.qmtpro.com/~nes/nintendulator/#downloads)  
+[CC65 윈도우즈용](https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download)
+[HelloWorld](https://github.com/nesdoug/01_Hello)  
+[NES Game Demo](https://github.com/nesdoug/26_Full_Game)
+[Program a NES game in C](https://nesdoug.com/)
+
 ### 메가 드라이브
 [SGDK](https://github.com/Stephane-D/SGDK)  
 [자바 다운로드](https://java.com/ko/download/ie_manual.jsp?locale=ko)
