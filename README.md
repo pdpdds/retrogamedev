@@ -63,6 +63,7 @@ retro game development book helper
 ## Chapter 10  
 [Relearning MSX](https://medium.com/relearning-msx)
 [MSX-C 컴파일러](https://github.com/fr3nd/msx-c-compiler)
+[샘플 프로젝트](https://github.com/sndpl/msx-c-examples)
 
 ## Chapter 11
 
