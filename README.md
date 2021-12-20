@@ -59,6 +59,10 @@ retro game development book helper
 * [브레이크아웃](https://wikidocs.net/135833)
 
 [비쥬얼 스튜디오 이전버전 다운받기](https://www.google.com/search?q=visual+studio+2019+community+download&rlz=1C1CHZN_koKR980KR980&oq=visual+&aqs=chrome.2.69i57j69i59l3j35i39j0i433i512j0i131i433i512j0i433i512l3.2168j0j15&sourceid=chrome&ie=UTF-8)
+
+## Chapter 10  
+[Relearning MSX](https://medium.com/relearning-msx)
+
 ## Chapter 11
 
 ### fusion C 1.2
