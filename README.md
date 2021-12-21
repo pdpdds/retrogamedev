@@ -83,6 +83,13 @@ retro game development book helper
 [z88dk 템플릿 빌드환경 구축](https://maple4estry.netlify.app/z88dk-msx/)
 [z88dk 템플릿 빌드환경 구축](https://github.com/h1romas4/z88dk-msx-template)
 
+### HI-Tech C
+[HI-TECH Z80 C compiler](https://github.com/agn453/HI-TECH-Z80-C-Cross-Compiler)  
+[C-experiments-for-msx](https://github.com/artrag/C-experiments-for-msx)  
+[Snow demo](https://github.com/MBilderbeek/sneeuw)  
+[MSX Asteroids](https://github.com/MBilderbeek/bigblast)  
+
+
 
 
 ## Chapter 14
