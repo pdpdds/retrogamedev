@@ -88,9 +88,13 @@ retro game development book helper
 [MSX 32K Startup](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)
 [libMSX](https://github.com/mori0091/libmsx)
 [Skeleton C project for MSX](https://github.com/sndpl/skeleton-sdcc-msx)
+[Atlanta]([https://github.com/sfranck72/Atalanta)
+[azombie](https://github.com/samsaga2/azombie)
+
 
 [I.N.E.R.T.I.A](http://andrear.altervista.org/home/inertia.php)
 [기타](https://andrear.altervista.org/home/msxsoftware.php)
+[MSX Fighter](https://github.com/arcadenea/msxfighter)
 
 ### HI-Tech C
 [HI-TECH Z80 C compiler](https://github.com/agn453/HI-TECH-Z80-C-Cross-Compiler)  
