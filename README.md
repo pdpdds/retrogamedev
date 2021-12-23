@@ -105,7 +105,7 @@ retro game development book helper
 [CP/M program EXEcutor](http://hp.vector.co.jp/authors/VA000084)
 
 ### Visual Studio
-[SDCC_VS](https://github.com/ssjason123/SDCC_VS)  
+[MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)
 
 
 
@@ -142,3 +142,4 @@ retro game development book helper
 ### GB
 [Gameboy Development KIT](https://sourceforge.net/projects/gbdk/)
 [BGB 에뮬레이터](https://bgb.bircd.org/)
+[SDCC_VS](https://github.com/ssjason123/SDCC_VS)  
