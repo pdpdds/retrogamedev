@@ -151,3 +151,4 @@ retro game development book helper
 [MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book)  
 [MSXLib](https://github.com/theNestruo/msx-msxlib)
 [msx-pyramidwarpex](https://github.com/theNestruo/msx-pyramidwarpex)  
+[pcxtools](https://github.com/theNestruo/pcxtools)
