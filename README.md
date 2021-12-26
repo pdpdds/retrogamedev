@@ -11,6 +11,9 @@ retro game development book helper
 * [Cocos2d-x](cocos2d-x)
 * [Allegro](https://liballeg.org/)
 
+# Chapter2
+* [WSL2 설치](https://docs.microsoft.com/ko-kr/windows/wsl/install-manual)
+
 # Chapter 2
 *  [BlueMSX](http://bluemsx.msxblue.com/download.html)
 *  [WebMSX](https://webmsx.org/)
