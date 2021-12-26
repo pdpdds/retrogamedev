@@ -143,6 +143,11 @@ retro game development book helper
 [레퍼런스4](https://www.reddit.com/r/cpp/comments/jrjj2n/butano_a_modern_c_high_level_engine_for_the_gba)  
 
 ### GB
-[Gameboy Development KIT](https://sourceforge.net/projects/gbdk/)
-[BGB 에뮬레이터](https://bgb.bircd.org/)
+[Gameboy Development KIT](https://sourceforge.net/projects/gbdk/)  
+[BGB 에뮬레이터](https://bgb.bircd.org/)  
 [SDCC_VS](https://github.com/ssjason123/SDCC_VS)  
+
+## 레퍼런스
+[MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book)  
+[MSXLib](https://github.com/theNestruo/msx-msxlib)
+[msx-pyramidwarpex](https://github.com/theNestruo/msx-pyramidwarpex)  
