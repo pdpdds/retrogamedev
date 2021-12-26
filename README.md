@@ -152,3 +152,4 @@ retro game development book helper
 [MSXLib](https://github.com/theNestruo/msx-msxlib)
 [msx-pyramidwarpex](https://github.com/theNestruo/msx-pyramidwarpex)  
 [pcxtools](https://github.com/theNestruo/pcxtools)
+[pascal](https://hansotten.file-hunter.com/software/pascal-and-msx)
