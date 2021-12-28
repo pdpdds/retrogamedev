@@ -75,6 +75,8 @@ retro game development book helper
 [Panasonic FS A1GT에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/M0tziyo6rBI)
 [AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)
 
+## Chapter 8
+[근접 색상 구하기](https://www.codeproject.com/Articles/1172815/Finding-Nearest-Colors-using-Euclidean-Distance)  
 
 ## Chapter 11
 
