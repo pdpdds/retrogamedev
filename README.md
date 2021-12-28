@@ -67,12 +67,30 @@ retro game development book helper
 ## Chapter 7
 
 [피라미드 게임 플레이](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/pyramid.rom)
+  
 
 ## Chapter 8
 [근접 색상 구하기](https://www.codeproject.com/Articles/1172815/Finding-Nearest-Colors-using-Euclidean-Distance)  
 [24비트 PNG로 변환](https://ko.onlineconvert.com/png-to-png24-converter)  
 [알레그로 스프라이트 에디터](https://www.allegro.cc/resource/Tools/Graphics/AllegroSpriteEditor)  
 [타일 기반 배경 스크롤 영상](https://youtu.be/62DRMjU0VJI)  
+
+
+### 기타 참고 툴
+[GIMP](https://www.gimp.org)  
+[Aku Sprite Editor](https://www.chibiakumas.com/akusprite)  
+[픽픽](https://picpick.app/ko)  
+[gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
+[tilesetter](https://www.tilesetter.org)  
+
+#### 확인필요
+* http://riskylab.com/tilemap/
+* http://tilestudio.sourceforge.net/
+* https://www.pixilart.com/
+* https://emily2.itch.io/modern-city
+* https://8bitworkshop.com/dithertron/
+
+
 
 ## Chapter 10  
 [Relearning MSX](https://medium.com/relearning-msx)  
