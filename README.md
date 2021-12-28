@@ -64,6 +64,11 @@ retro game development book helper
 
 [비쥬얼 스튜디오 이전버전 다운받기](https://www.google.com/search?q=visual+studio+2019+community+download&rlz=1C1CHZN_koKR980KR980&oq=visual+&aqs=chrome.2.69i57j69i59l3j35i39j0i433i512j0i131i433i512j0i433i512l3.2168j0j15&sourceid=chrome&ie=UTF-8)
 
+
+## Chapter 8
+[근접 색상 구하기](https://www.codeproject.com/Articles/1172815/Finding-Nearest-Colors-using-Euclidean-Distance)  
+[24비트 PNG로 변환](https://ko.onlineconvert.com/png-to-png24-converter)  
+
 ## Chapter 10  
 [Relearning MSX](https://medium.com/relearning-msx)  
 [Relearning MSX](http://www.lavandeira.net/relearning-msx/)  
@@ -74,9 +79,6 @@ retro game development book helper
 [필립스 머신에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/S1EYY43_fEk)
 [Panasonic FS A1GT에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/M0tziyo6rBI)
 [AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)
-
-## Chapter 8
-[근접 색상 구하기](https://www.codeproject.com/Articles/1172815/Finding-Nearest-Colors-using-Euclidean-Distance)  
 
 ## Chapter 11
 
