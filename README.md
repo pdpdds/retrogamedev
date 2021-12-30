@@ -82,6 +82,7 @@ retro game development book helper
 [픽픽](https://picpick.app/ko)  
 [gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
 [tilesetter](https://www.tilesetter.org)  
+[Pixel Editor](https://danielx.net/pixel-editor)
 
 #### 확인필요
 * http://riskylab.com/tilemap/
