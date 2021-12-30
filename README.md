@@ -94,6 +94,7 @@ retro game development book helper
 ## Chapter 10
 [helloSDL](https://github.com/pdpdds/helloSDL)  
 [SDL 프로젝트 모음](https://github.com/pdpdds/SDLGameProgramming/tree/main/sdl2)  
+[Oscar Toledo](https://nanochess.org/retro.html)
 
 ## Chapter 11  
 [Relearning MSX](https://medium.com/relearning-msx)  
