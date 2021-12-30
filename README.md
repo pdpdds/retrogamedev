@@ -91,9 +91,10 @@ retro game development book helper
 * https://emily2.itch.io/modern-city
 * https://8bitworkshop.com/dithertron/
 
+## Chapter 10
+[helloSDL](https://github.com/pdpdds/helloSDL)  
 
-
-## Chapter 10  
+## Chapter 11  
 [Relearning MSX](https://medium.com/relearning-msx)  
 [Relearning MSX](http://www.lavandeira.net/relearning-msx/)  
 [MSX-C 컴파일러](https://github.com/fr3nd/msx-c-compiler)  
@@ -104,7 +105,7 @@ retro game development book helper
 [Panasonic FS A1GT에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/M0tziyo6rBI)
 [AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)
 
-## Chapter 11
+## Chapter 12
 
 ### fusion C 1.2
 [MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
