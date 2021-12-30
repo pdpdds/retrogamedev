@@ -96,6 +96,7 @@ retro game development book helper
 [SDL 프로젝트 모음](https://github.com/pdpdds/SDLGameProgramming/tree/main/sdl2)  
 [Oscar Toledo](https://nanochess.org/retro.html)  
 [princess quest](https://nanochess.org/princess_quest.html)  
+[프린세스 퀘스트 안드로이드](https://play.google.com/store/apps/details?id=com.juhang.fmsx_sdl)  
 
 ## Chapter 11  
 [Relearning MSX](https://medium.com/relearning-msx)  
