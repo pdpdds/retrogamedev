@@ -111,6 +111,9 @@ retro game development book helper
 [AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)
 
 ## Chapter 12
+https://github.com/cc65/cc65  
+[크로스 컴파일러 소개](https://www.nabeta.tk/msx/crosscc.html)  
+
 
 [l’Abbaye des Morts](https://www.msxdev.org/2020/07/27/msxdev20-15-labbaye-des-morts)
 
