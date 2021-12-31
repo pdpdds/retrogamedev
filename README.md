@@ -124,20 +124,20 @@ https://github.com/cc65/cc65
 ### Z88DK
 [z88dk 다운로드](http://nightly.z88dk.org/)  
 [z88dk 템플릿 빌드환경 구축](https://maple4estry.netlify.app/z88dk-msx/)  
-[z88dk 템플릿 빌드환경 구축](https://github.com/h1romas4/z88dk-msx-template)  
-
+[z88dk 템플릿 빌드환경 구축](https://github.com/h1romas4/z88dk-msx-template)   
+ 
 ### SDCC
 [MSX SDCC Boilerplate](https://github.com/jannone/msx-sdcc-boilerplate)  
-[MSX 32K Startup](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)
-[libMSX](https://github.com/mori0091/libmsx)
-[Skeleton C project for MSX](https://github.com/sndpl/skeleton-sdcc-msx)
-[Atlanta]([https://github.com/sfranck72/Atalanta)
-[azombie](https://github.com/samsaga2/azombie)
+[MSX 32K Startup](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)  
+[libMSX](https://github.com/mori0091/libmsx)  
+[Skeleton C project for MSX](https://github.com/sndpl/skeleton-sdcc-msx)  
+[Atlanta]([https://github.com/sfranck72/Atalanta)  
+[azombie](https://github.com/samsaga2/azombie)  
 
 
-[I.N.E.R.T.I.A](http://andrear.altervista.org/home/inertia.php)
-[기타](https://andrear.altervista.org/home/msxsoftware.php)
-[MSX Fighter](https://github.com/arcadenea/msxfighter)
+[I.N.E.R.T.I.A](http://andrear.altervista.org/home/inertia.php)  
+[기타](https://andrear.altervista.org/home/msxsoftware.php)  
+[MSX Fighter](https://github.com/arcadenea/msxfighter)  
 
 ### HI-Tech C
 [HI-TECH Z80 C compiler](https://github.com/agn453/HI-TECH-Z80-C-Cross-Compiler)  
@@ -145,11 +145,14 @@ https://github.com/cc65/cc65
 [Snow demo](https://github.com/MBilderbeek/sneeuw)  
 [MSX Asteroids](https://github.com/MBilderbeek/bigblast)  
 [CP/M program EXEcutor for Win32 0.4](https://www.vector.co.jp/download/file/win95/util/fh577850.html)  
-[CP/M program EXEcutor](http://hp.vector.co.jp/authors/VA000084)
+[CP/M program EXEcutor](http://hp.vector.co.jp/authors/VA000084)  
 
 ### Visual Studio
 [MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)
 [Arya](https://github.com/albs-br/arya)
+
+### 기타
+[msx2daad](https://github.com/nataliapc/msx2daad)  
 
 
 ## Chapter 14
