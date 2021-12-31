@@ -167,6 +167,7 @@ retro game development book helper
 [자바 다운로드](https://java.com/ko/download/ie_manual.jsp?locale=ko)
 [Code::Blocks IDE 다운로드]( http://www.codeblocks.org)
 [Gens KMod](https://segaretro.org/Gens_KMod)
+[Metal Slug Warfare Demo](https://github.com/StudioVetea/Metal-Slug-Warfare-Demo--Megadrive-)
 
 ### GBA
 
