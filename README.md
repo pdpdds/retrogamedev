@@ -138,11 +138,14 @@ https://github.com/cc65/cc65
 
 ### HI-Tech C
 [HI-TECH Z80 C compiler](https://github.com/agn453/HI-TECH-Z80-C-Cross-Compiler)  
-[C-experiments-for-msx](https://github.com/artrag/C-experiments-for-msx)  
-[Snow demo](https://github.com/MBilderbeek/sneeuw)  
 [MSX Asteroids](https://github.com/MBilderbeek/bigblast)  
 [CP/M program EXEcutor for Win32 0.4](https://www.vector.co.jp/download/file/win95/util/fh577850.html)  
 [CP/M program EXEcutor](http://hp.vector.co.jp/authors/VA000084)  
+[HITECH-C 라이브러리](https://www.vector.co.jp/soft/other/msx/se148476.html?a8=v4ucY4bPL-a)
+
+#### 확인안됨
+[C-experiments-for-msx](https://github.com/artrag/C-experiments-for-msx)  
+[Snow demo](https://github.com/MBilderbeek/sneeuw)  
 
 ### Visual Studio
 [MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)
