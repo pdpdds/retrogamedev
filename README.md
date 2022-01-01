@@ -174,9 +174,9 @@ https://github.com/cc65/cc65
 ### 메가 드라이브
 [SGDK](https://github.com/Stephane-D/SGDK)  
 [자바 다운로드](https://java.com/ko/download/ie_manual.jsp?locale=ko)
-[Code::Blocks IDE 다운로드]( http://www.codeblocks.org)
-[Gens KMod](https://segaretro.org/Gens_KMod)
-[Metal Slug Warfare Demo](https://github.com/StudioVetea/Metal-Slug-Warfare-Demo--Megadrive-)
+[Code::Blocks IDE 다운로드]( http://www.codeblocks.org)  
+[Gens KMod](https://segaretro.org/Gens_KMod)  
+[Metal Slug Warfare Demo](https://github.com/StudioVetea/Metal-Slug-Warfare-Demo--Megadrive-)  
 
 ### GBA
 
