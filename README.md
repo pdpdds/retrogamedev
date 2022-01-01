@@ -114,9 +114,6 @@ retro game development book helper
 https://github.com/cc65/cc65  
 [크로스 컴파일러 소개](https://www.nabeta.tk/msx/crosscc.html)  
 
-
-[l’Abbaye des Morts](https://www.msxdev.org/2020/07/27/msxdev20-15-labbaye-des-morts)
-
 ### fusion C 1.2
 [MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
 [FUSION-C: MSX C Library complete journey](https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612)  
@@ -151,9 +148,12 @@ https://github.com/cc65/cc65
 [MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)
 [Arya](https://github.com/albs-br/arya)
 
+### RetroDeluxe Game Engine
+[RetroDeluxe Game Engine](https://github.com/retrodeluxe/rlengine-msx)  
+[l’Abbaye des Morts](https://www.msxdev.org/2020/07/27/msxdev20-15-labbaye-des-morts)  
+
 ### 기타
 [msx2daad](https://github.com/nataliapc/msx2daad)  
-[RetroDeluxe Game Engine](https://github.com/retrodeluxe/rlengine-msx)
 
 
 ## Chapter 14
