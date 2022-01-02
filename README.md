@@ -230,3 +230,19 @@ https://github.com/cc65/cc65
 [Memory](https://www.msx.org/wiki/The_Memory)
 [tinyMSX](https://github.com/suzukiplan/tinymsx)  
 
+https://gimp-msx-plugins.readthedocs.io/en/latest/  
+https://gimp-msx-plugins.readthedocs.io/en/latest/user_guide/msx_gm2_exporter.html  
+https://opengameart.org/  
+https://opengameart.org/content/mummies  
+https://github.com/S0urceror/DeZog  
+https://github.com/santiontanon/xracing  
+https://github.com/fallahn/tmxlite  
+http://msx.jannone.org/tinysprite/tinysprite.html  
+
+http://map.grauw.nl/articles/scrolling.php  
+https://www.nyaonyao21.com/entry/2019/02/07/093011  
+http://msx.sagaz.es/AutoTilerScreen2.php  
+http://map.grauw.nl/articles/scrolling.php  
+http://msx.jannone.org/tinysprite/tinysprite.html  
+
+
