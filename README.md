@@ -215,6 +215,7 @@ https://github.com/cc65/cc65
 
 ## 레퍼런스
 [MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book)  
+[MSX2-Technical-Handbook](https://konamiman.github.io/MSX2-Technical-Handbook)  
 [MSXLib](https://github.com/theNestruo/msx-msxlib)
 [msx-pyramidwarpex](https://github.com/theNestruo/msx-pyramidwarpex)   
 [pcxtools](https://github.com/theNestruo/pcxtools)  
@@ -224,3 +225,7 @@ https://github.com/cc65/cc65
 [Developing for MSX](https://www.msx.org/wiki/Main_Page#Developing_for_MSX)  
 [RETRO GAME COCODERS](https://retrogamecoders.com/getting-started-with-c-cc65/)  
 [C 프로그래밍](http://www.loirak.com/prog/ctutor.php)  
+[ccZ80++](http://ccz80pp.webcindario.com/ccz80pp-en.html)  
+[VRAM Maps](https://www.msx.org/wiki/VRAM_Maps)  
+[Memory](https://www.msx.org/wiki/The_Memory)
+
