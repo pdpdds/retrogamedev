@@ -209,9 +209,18 @@ https://github.com/cc65/cc65
 [BGB 에뮬레이터](https://bgb.bircd.org/)  
 [SDCC_VS](https://github.com/ssjason123/SDCC_VS)  
 
+## 부록
+[MSX 베이직 게임](http://msxbasic.blogspot.com)
+
+
 ## 레퍼런스
 [MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book)  
 [MSXLib](https://github.com/theNestruo/msx-msxlib)
-[msx-pyramidwarpex](https://github.com/theNestruo/msx-pyramidwarpex)  
-[pcxtools](https://github.com/theNestruo/pcxtools)
-[pascal](https://hansotten.file-hunter.com/software/pascal-and-msx)
+[msx-pyramidwarpex](https://github.com/theNestruo/msx-pyramidwarpex)   
+[pcxtools](https://github.com/theNestruo/pcxtools)  
+[pascal](https://hansotten.file-hunter.com/software/pascal-and-msx)  
+[MSX 인사이드 자습서](http://www.z80st.es/cursos/msx-inside)  
+[Awesome MSX](https://github.com/fr3nd/awesome-msx)  
+[Developing for MSX](https://www.msx.org/wiki/Main_Page#Developing_for_MSX)  
+[RETRO GAME COCODERS](https://retrogamecoders.com/getting-started-with-c-cc65/)  
+[C 프로그래밍](http://www.loirak.com/prog/ctutor.php)  
