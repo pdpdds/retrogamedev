@@ -159,6 +159,20 @@ https://github.com/cc65/cc65
 [msx2daad](https://github.com/nataliapc/msx2daad)  
 
 
+### 
+[MSX1 픽셀 기반 스크롤](https://www.youtube.com/watch?v=DHH6y9le7BU)  
+[MSX1 픽셀 기반 스크롤 영상2](https://www.youtube.com/watch?v=2up41-p091k)
+
+
+
+## Chapter 13
+
+
+
+### 기타
+[16비트 응용앱의 리버스 엔지니어링](http://blog.ssokolow.com/archives/2018/12/02/resources-for-reverse-engineering-16-bit-applications/)  
+
+
 ## Chapter 14
 ### 아미가
 [WINUAE 4.9.0](https://www.winuae.net/download/)  
