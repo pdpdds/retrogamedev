@@ -65,15 +65,17 @@ retro game development book helper
 [비쥬얼 스튜디오 이전버전 다운받기](https://www.google.com/search?q=visual+studio+2019+community+download&rlz=1C1CHZN_koKR980KR980&oq=visual+&aqs=chrome.2.69i57j69i59l3j35i39j0i433i512j0i131i433i512j0i433i512l3.2168j0j15&sourceid=chrome&ie=UTF-8)
 
 ## Chapter 7
-
 [피라미드 게임 플레이](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/pyramid.rom)
   
-
 ## Chapter 8
 [근접 색상 구하기](https://www.codeproject.com/Articles/1172815/Finding-Nearest-Colors-using-Euclidean-Distance)  
 [24비트 PNG로 변환](https://ko.onlineconvert.com/png-to-png24-converter)  
 [알레그로 스프라이트 에디터](https://www.allegro.cc/resource/Tools/Graphics/AllegroSpriteEditor)  
+[GIMP](https://gimp-msx-plugins.readthedocs.io/en/latest)  
+[GIMP MSX Exporter plugin](https://gimp-msx-plugins.readthedocs.io/en/latest/user_guide/msx_gm2_exporter.html)
+[Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)
 [타일 기반 배경 스크롤 영상](https://youtu.be/62DRMjU0VJI)  
+[미이라 스프라이트](https://opengameart.org/content/mummies)  
 
 
 ### 기타 참고 툴
@@ -82,7 +84,9 @@ retro game development book helper
 [픽픽](https://picpick.app/ko)  
 [gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
 [tilesetter](https://www.tilesetter.org)  
-[Pixel Editor](https://danielx.net/pixel-editor)
+[Pixel Editor](https://danielx.net/pixel-editor)  
+[TinySprite](http://msx.jannone.org/tinysprite/tinysprite.html)  
+https://opengameart.org/  
 
 #### 확인필요
 * http://riskylab.com/tilemap/
@@ -90,6 +94,10 @@ retro game development book helper
 * https://www.pixilart.com/
 * https://emily2.itch.io/modern-city
 * https://8bitworkshop.com/dithertron/
+
+
+## Chapter 9
+[DeZog 디버거](https://github.com/S0urceror/DeZog)
 
 ## Chapter 10
 [helloSDL](https://github.com/pdpdds/helloSDL)  
@@ -229,22 +237,3 @@ https://github.com/cc65/cc65
 [VRAM Maps](https://www.msx.org/wiki/VRAM_Maps)  
 [Memory](https://www.msx.org/wiki/The_Memory)
 [tinyMSX](https://github.com/suzukiplan/tinymsx)  
-
-
-## 그래픽 툴
-https://gimp-msx-plugins.readthedocs.io/en/latest/  
-https://gimp-msx-plugins.readthedocs.io/en/latest/user_guide/msx_gm2_exporter.html  
-https://opengameart.org/  
-https://opengameart.org/content/mummies  
-https://github.com/S0urceror/DeZog  
-https://github.com/santiontanon/xracing  
-https://github.com/fallahn/tmxlite  
-http://msx.jannone.org/tinysprite/tinysprite.html  
-
-http://map.grauw.nl/articles/scrolling.php  
-https://www.nyaonyao21.com/entry/2019/02/07/093011  
-http://msx.sagaz.es/AutoTilerScreen2.php  
-http://map.grauw.nl/articles/scrolling.php  
-http://msx.jannone.org/tinysprite/tinysprite.html  
-
-
