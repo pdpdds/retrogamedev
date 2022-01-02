@@ -105,9 +105,9 @@ retro game development book helper
 [MSX-C 컴파일러](https://github.com/fr3nd/msx-c-compiler)  
 [샘플 프로젝트](https://github.com/sndpl/msx-c-examples)  
 [틱택토](https://github.com/ocitygate/TicTacToe)  
-[Introduction to MSX-C](https://github.com/sndpl/msx-c-intro)
-[필립스 머신에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/S1EYY43_fEk)
-[Panasonic FS A1GT에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/M0tziyo6rBI)
+[Introduction to MSX-C](https://github.com/sndpl/msx-c-intro)  
+[필립스 머신에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/S1EYY43_fEk)  
+[Panasonic FS A1GT에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/M0tziyo6rBI)  
 [AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)
 
 ## Chapter 12
@@ -230,6 +230,8 @@ https://github.com/cc65/cc65
 [Memory](https://www.msx.org/wiki/The_Memory)
 [tinyMSX](https://github.com/suzukiplan/tinymsx)  
 
+
+## 그래픽 툴
 https://gimp-msx-plugins.readthedocs.io/en/latest/  
 https://gimp-msx-plugins.readthedocs.io/en/latest/user_guide/msx_gm2_exporter.html  
 https://opengameart.org/  
