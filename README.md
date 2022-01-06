@@ -174,7 +174,7 @@ https://github.com/cc65/cc65
 
 
 ## Chapter 13
-
+[보호모드 진입 및 빠져나기기](http://www.rcollins.org/articles/pmbasics/tspec_a1_doc.html)  
 
 
 ### 기타
