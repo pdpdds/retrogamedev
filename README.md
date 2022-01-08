@@ -179,9 +179,15 @@ https://github.com/cc65/cc65
 ### 도스 컴파일러
 [DJGPP](http://www.delorie.com/djgpp)  
 
-### 
-[알레그로 2D 엔진 홈페이지](https://liballeg.org)
-[알레그로 DJGPP](https://github.com/pdpdds/allegro4_dos/releases)
+### 알레그로 4
+[알레그로 2D 엔진 홈페이지](https://liballeg.org)  
+[알레그로4 DJGPP](https://github.com/pdpdds/allegro4_dos/releases)  
+[알레그로4 프로그래밍 튜토리얼](https://github.com/pdpdds/allero4programming)  
+[스네이크 바이트](https://github.com/sbryant31/Snake)  
+[프로그래밍 가이드](https://liballeg.org/docs.html)  
+[https://github.com/hughbien/notebook](https://github.com/hughbien/notebook)  
+[https://www.youtube.com/watch?v=J9vRVMZldy8&t=430s](https://www.youtube.com/watch?v=J9vRVMZldy8&t=430s)  
+
 
 ### 기타
 [16비트 응용앱의 리버스 엔지니어링](http://blog.ssokolow.com/archives/2018/12/02/resources-for-reverse-engineering-16-bit-applications/)  
