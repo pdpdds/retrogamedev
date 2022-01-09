@@ -179,6 +179,9 @@ https://github.com/cc65/cc65
 ### 도스 컴파일러
 [DJGPP](http://www.delorie.com/djgpp)  
 
+### 샘플 프로젝트
+[테트리스 예제 2](https://github.com/pdpdds/allegro4_dos/releases/tag/v1.0)  
+
 ### 알레그로 4
 [알레그로 2D 엔진 홈페이지](https://liballeg.org)  
 [알레그로4 DJGPP](https://github.com/pdpdds/allegro4_dos/releases)  
