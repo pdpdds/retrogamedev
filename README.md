@@ -176,6 +176,7 @@ https://github.com/cc65/cc65
 ## Chapter 13
 [보호모드 진입 및 빠져나기기](http://www.rcollins.org/articles/pmbasics/tspec_a1_doc.html)  
 
+
 ### 도스 컴파일러
 [DJGPP](http://www.delorie.com/djgpp)  
 
@@ -202,6 +203,11 @@ https://github.com/cc65/cc65
 [AGS](https://www.adventuregamestudio.co.uk)  
 [AGS 2.3 DOS](https://dosgames.com/game/adventure-game-studio)
 
+### 폭스레인저 리메이크
+[Collections-C](https://github.com/srdja/Collections-C)  
+[sxmlc](https://github.com/matthieu-labas/sxmlc)  
+[Fast Sqrt](https://github.com/erich666/GraphicsGems)  
+[폭스레인저 2 리메이크 툴](https://github.com/pdpdds/allegro4_dos/releases)
 
 ### 기타
 [16비트 응용앱의 리버스 엔지니어링](http://blog.ssokolow.com/archives/2018/12/02/resources-for-reverse-engineering-16-bit-applications/)  
