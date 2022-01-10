@@ -199,6 +199,9 @@ https://github.com/cc65/cc65
 [서적 소스코드](http://jharbour.com/sources/)  
 [매피 맵 참고](http://fixbyproximity.com/2011/11/28/2d-game-dev-part-11-2-tile-backgrounds-with-mappy)  
 
+[AGS](https://www.adventuregamestudio.co.uk)  
+[AGS 2.3 DOS](https://dosgames.com/game/adventure-game-studio)
+
 
 ### 기타
 [16비트 응용앱의 리버스 엔지니어링](http://blog.ssokolow.com/archives/2018/12/02/resources-for-reverse-engineering-16-bit-applications/)  
