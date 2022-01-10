@@ -194,6 +194,10 @@ https://github.com/cc65/cc65
 ### 맵 에디터
 [Tiled](https://www.mapeditor.org)  
 [Mappy](https://tilemap.co.uk/mappy.php)  
+[Mappy 맵 사용 예제](http://retrospec.sgn.net/users/nwalker/axl/tranzam.html)  
+[game_programming_all_in_one](https://github.com/hughbien/notebook/blob/master/game_programming_all_in_one.md)  
+[서적 소스코드](http://jharbour.com/sources/)  
+[매피 맵 참고](http://fixbyproximity.com/2011/11/28/2d-game-dev-part-11-2-tile-backgrounds-with-mappy)  
 
 
 ### 기타
