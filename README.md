@@ -191,6 +191,10 @@ https://github.com/cc65/cc65
 [https://github.com/hughbien/notebook](https://github.com/hughbien/notebook)  
 [https://www.youtube.com/watch?v=J9vRVMZldy8&t=430s](https://www.youtube.com/watch?v=J9vRVMZldy8&t=430s)  
 
+### 맵 에디터
+[Tiled](https://www.mapeditor.org)  
+[Mappy](https://tilemap.co.uk/mappy.php)  
+
 
 ### 기타
 [16비트 응용앱의 리버스 엔지니어링](http://blog.ssokolow.com/archives/2018/12/02/resources-for-reverse-engineering-16-bit-applications/)  
