@@ -3,10 +3,15 @@ retro game development book helper
 
 
 # Chapter 1
-* [MSX 스크린 모드](https://www.msx.org/wiki/SCREEN)  
-* [Pyramid Quest](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/pyramid.rom)
+
+* [BlueMSX](http://bluemsx.msxblue.com/download.html)
+* [WebMSX](https://webmsx.org/)
+* [openMSX](https://openmsx.org/)
+* [fMSX](https://fms.komkon.org/fMSX/)
 * [Tiny Slot Checker](https://msxhub.com/TNSLCK)  
 * [MSX 슬롯 프로그래밍](https://www.msx.org/wiki/Slots)    
+
+# Chapter2
 
 > cross platform graphics library
 * [SDL](https://www.libsdl.org/)
@@ -14,14 +19,13 @@ retro game development book helper
 * [Cocos2d-x](cocos2d-x)
 * [Allegro](https://liballeg.org/)
 
-# Chapter2
 * [WSL2 설치](https://docs.microsoft.com/ko-kr/windows/wsl/install-manual)
 
+* [MSX 스크린 모드](https://www.msx.org/wiki/SCREEN)  
+* [Pyramid Quest](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/pyramid.rom)
+
 # Chapter 2
-*  [BlueMSX](http://bluemsx.msxblue.com/download.html)
-*  [WebMSX](https://webmsx.org/)
-*  [openMSX](https://openmsx.org/)
-*  [fMSX](https://fms.komkon.org/fMSX/)
+
 
 > MSX Game Play
 * [https://www.file-hunter.com](https://www.file-hunter.com)
