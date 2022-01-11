@@ -12,8 +12,6 @@ retro game development book helper
 * [MSX 슬롯 프로그래밍](https://www.msx.org/wiki/Slots)    
 
 # Chapter2
-
-> cross platform graphics library
 * [SDL](https://www.libsdl.org/)
 * [SFML](https://www.sfml-dev.org/)
 * [Cocos2d-x](cocos2d-x)
