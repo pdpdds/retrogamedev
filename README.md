@@ -43,6 +43,7 @@ retro game development book helper
 [피라미드 게임 플레이](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/pyramid.rom)
   
 ## Chapter 8
+[타일 기반 배경 스크롤 영상](https://youtu.be/62DRMjU0VJI)  
 [근접 색상 구하기](https://www.codeproject.com/Articles/1172815/Finding-Nearest-Colors-using-Euclidean-Distance)  
 [24비트 PNG로 변환](https://ko.onlineconvert.com/png-to-png24-converter)  
 [알레그로 스프라이트 에디터](https://www.allegro.cc/resource/Tools/Graphics/AllegroSpriteEditor)  
@@ -50,8 +51,6 @@ retro game development book helper
 [GIMP MSX 플러그인 설명 문서](https://gimp-msx-plugins.readthedocs.io/en/latest)  
 [GIMP MSX 익스포터 플러그인](https://gimp-msx-plugins.readthedocs.io/en/latest/user_guide/msx_gm2_exporter.html)  
 [Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)  
-[타일 기반 배경 스크롤 영상](https://youtu.be/62DRMjU0VJI)  
-[미이라 스프라이트](https://opengameart.org/content/mummies)  
 
 ### 참고 툴
 [Aku Sprite Editor](https://www.chibiakumas.com/akusprite)  
@@ -65,6 +64,7 @@ retro game development book helper
 #### 기타
 [오픈 게임 아트](https://opengameart.org)  
 [모던 시티 타일 세트](https://emily2.itch.io/modern-city)  
+[미이라 스프라이트](https://opengameart.org/content/mummies)  
 
 * http://tilestudio.sourceforge.net/
 * https://www.pixilart.com/
