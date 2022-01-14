@@ -46,15 +46,16 @@ retro game development book helper
 [근접 색상 구하기](https://www.codeproject.com/Articles/1172815/Finding-Nearest-Colors-using-Euclidean-Distance)  
 [24비트 PNG로 변환](https://ko.onlineconvert.com/png-to-png24-converter)  
 [알레그로 스프라이트 에디터](https://www.allegro.cc/resource/Tools/Graphics/AllegroSpriteEditor)  
+[GIMP](https://www.gimp.org)  
 [GIMP](https://gimp-msx-plugins.readthedocs.io/en/latest)  
 [GIMP MSX Exporter plugin](https://gimp-msx-plugins.readthedocs.io/en/latest/user_guide/msx_gm2_exporter.html)
 [Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)
 [타일 기반 배경 스크롤 영상](https://youtu.be/62DRMjU0VJI)  
-[미이라 스프라이트](https://opengameart.org/content/mummies)  
+[미이라 스프라이트](https://opengameart.org/content/mummies)
 
 
 ### 기타 참고 툴
-[GIMP](https://www.gimp.org)  
+  
 [Aku Sprite Editor](https://www.chibiakumas.com/akusprite)  
 [픽픽](https://picpick.app/ko)  
 [gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
