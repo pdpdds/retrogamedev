@@ -54,13 +54,13 @@ retro game development book helper
 ### 참고 툴
 
 #### 맵 생성 & 맵 에디터
-[gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
 [tilesetter](https://www.tilesetter.org)  
 [온라인 타일맵 에디터](http://riskylab.com/tilemap) 
 [타일 스튜디오](http://tilestudio.sourceforge.net)  
 [Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)  
 
 #### 스프라이트 제작
+[gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
 [Aku Sprite Editor](https://www.chibiakumas.com/akusprite)  
 [픽픽](https://picpick.app/ko)  
 [Pixel Editor](https://danielx.net/pixel-editor)  
@@ -71,10 +71,6 @@ retro game development book helper
 [오픈 게임 아트](https://opengameart.org)  
 [모던 시티 타일 세트](https://emily2.itch.io/modern-city)  
 [미이라 스프라이트](https://opengameart.org/content/mummies)  
-
-
-
-
 
 ## Chapter 9
 [DeZog 디버거](https://github.com/S0urceror/DeZog)
