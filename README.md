@@ -47,24 +47,23 @@ retro game development book helper
 [24비트 PNG로 변환](https://ko.onlineconvert.com/png-to-png24-converter)  
 [알레그로 스프라이트 에디터](https://www.allegro.cc/resource/Tools/Graphics/AllegroSpriteEditor)  
 [GIMP](https://www.gimp.org)  
-[GIMP](https://gimp-msx-plugins.readthedocs.io/en/latest)  
-[GIMP MSX Exporter plugin](https://gimp-msx-plugins.readthedocs.io/en/latest/user_guide/msx_gm2_exporter.html)
-[Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)
+[GIMP MSX 플러그인 설명 문서](https://gimp-msx-plugins.readthedocs.io/en/latest)  
+[GIMP MSX 익스포터 플러그인](https://gimp-msx-plugins.readthedocs.io/en/latest/user_guide/msx_gm2_exporter.html)  
+[Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)  
 [타일 기반 배경 스크롤 영상](https://youtu.be/62DRMjU0VJI)  
-[미이라 스프라이트](https://opengameart.org/content/mummies)
+[미이라 스프라이트](https://opengameart.org/content/mummies)  
 
-
-### 기타 참고 툴
-  
+### 참고 툴
 [Aku Sprite Editor](https://www.chibiakumas.com/akusprite)  
 [픽픽](https://picpick.app/ko)  
 [gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
 [tilesetter](https://www.tilesetter.org)  
 [Pixel Editor](https://danielx.net/pixel-editor)  
 [TinySprite](http://msx.jannone.org/tinysprite/tinysprite.html)  
-https://opengameart.org/  
 
-#### 확인필요
+
+#### 기타
+[오픈 게임 아트](https://opengameart.org)  
 * http://riskylab.com/tilemap/
 * http://tilestudio.sourceforge.net/
 * https://www.pixilart.com/
