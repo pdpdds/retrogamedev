@@ -53,24 +53,26 @@ retro game development book helper
 [Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)  
 
 ### 참고 툴
-[Aku Sprite Editor](https://www.chibiakumas.com/akusprite)  
-[픽픽](https://picpick.app/ko)  
+#### 맵 에디터
 [gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
 [tilesetter](https://www.tilesetter.org)  
-[Pixel Editor](https://danielx.net/pixel-editor)  
-[TinySprite](http://msx.jannone.org/tinysprite/tinysprite.html)  
 [온라인 타일맵 에디터](http://riskylab.com/tilemap) 
 [타일 스튜디오](http://tilestudio.sourceforge.net)  
 
-#### 기타
+### 스프라이트 제작
+[Aku Sprite Editor](https://www.chibiakumas.com/akusprite)  
+[픽픽](https://picpick.app/ko)  
+[Pixel Editor](https://danielx.net/pixel-editor)  
+[픽셀 아트](https://www.pixilart.com)  
+[TinySprite](http://msx.jannone.org/tinysprite/tinysprite.html)  
+
+### 리소스 애셋
 [오픈 게임 아트](https://opengameart.org)  
 [모던 시티 타일 세트](https://emily2.itch.io/modern-city)  
 [미이라 스프라이트](https://opengameart.org/content/mummies)  
 
 
-* https://www.pixilart.com/
 
-* https://8bitworkshop.com/dithertron/
 
 
 ## Chapter 9
