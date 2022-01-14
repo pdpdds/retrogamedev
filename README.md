@@ -50,15 +50,15 @@ retro game development book helper
 [GIMP](https://www.gimp.org)  
 [GIMP MSX 플러그인 설명 문서](https://gimp-msx-plugins.readthedocs.io/en/latest)  
 [GIMP MSX 익스포터 플러그인](https://gimp-msx-plugins.readthedocs.io/en/latest/user_guide/msx_gm2_exporter.html)  
-[Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)  
 
 ### 참고 툴
 
-#### 맵 에디터
+#### 맵 생성 & 맵 에디터
 [gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
 [tilesetter](https://www.tilesetter.org)  
 [온라인 타일맵 에디터](http://riskylab.com/tilemap) 
 [타일 스튜디오](http://tilestudio.sourceforge.net)  
+[Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)  
 
 #### 스프라이트 제작
 [Aku Sprite Editor](https://www.chibiakumas.com/akusprite)  
