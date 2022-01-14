@@ -64,10 +64,11 @@ retro game development book helper
 
 #### 기타
 [오픈 게임 아트](https://opengameart.org)  
+[모던 시티 타일 세트](https://emily2.itch.io/modern-city)  
 * http://riskylab.com/tilemap/
 * http://tilestudio.sourceforge.net/
 * https://www.pixilart.com/
-* https://emily2.itch.io/modern-city
+
 * https://8bitworkshop.com/dithertron/
 
 
