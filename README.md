@@ -60,12 +60,12 @@ retro game development book helper
 [tilesetter](https://www.tilesetter.org)  
 [Pixel Editor](https://danielx.net/pixel-editor)  
 [TinySprite](http://msx.jannone.org/tinysprite/tinysprite.html)  
-
+[온라인 타일맵 에디터](http://riskylab.com/tilemap)  
 
 #### 기타
 [오픈 게임 아트](https://opengameart.org)  
 [모던 시티 타일 세트](https://emily2.itch.io/modern-city)  
-* http://riskylab.com/tilemap/
+
 * http://tilestudio.sourceforge.net/
 * https://www.pixilart.com/
 
