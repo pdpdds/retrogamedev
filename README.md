@@ -1,7 +1,6 @@
 # retrogamedev
 retro game development book helper
 
-
 # Chapter 1
 
 * [BlueMSX](http://bluemsx.msxblue.com/download.html)
@@ -12,10 +11,6 @@ retro game development book helper
 * [MSX 슬롯 프로그래밍](https://www.msx.org/wiki/Slots)    
 
 # Chapter2
-* [SDL](https://www.libsdl.org/)
-* [SFML](https://www.sfml-dev.org/)
-* [Cocos2d-x](cocos2d-x)
-* [Allegro](https://liballeg.org/)
 
 * [WSL2 설치](https://docs.microsoft.com/ko-kr/windows/wsl/install-manual)
 
@@ -28,21 +23,17 @@ retro game development book helper
 
 ## Chapter 4
 
+## Chapter 5
+
 ## Chapter 6
-
 [tiled 맵 사용법](https://thd0011.tistory.com/12)
-
-* [스네이크바이트](https://wikidocs.net/135834)
-* [소코반](https://wikidocs.net/135835)
-* [테트리스](https://wikidocs.net/135836)
-* [브레이크아웃](https://wikidocs.net/135833)
-
-[비쥬얼 스튜디오 이전버전 다운받기](https://www.google.com/search?q=visual+studio+2019+community+download&rlz=1C1CHZN_koKR980KR980&oq=visual+&aqs=chrome.2.69i57j69i59l3j35i39j0i433i512j0i131i433i512j0i433i512l3.2168j0j15&sourceid=chrome&ie=UTF-8)
 
 ## Chapter 7
 [피라미드 게임 플레이](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/pyramid.rom)
   
 ## Chapter 8
+[비쥬얼 스튜디오 이전버전 다운받기](https://visualstudio.microsoft.com/ko/vs/older-downloads)
+
 [타일 기반 배경 스크롤 영상](https://youtu.be/62DRMjU0VJI)  
 [근접 색상 구하기](https://www.codeproject.com/Articles/1172815/Finding-Nearest-Colors-using-Euclidean-Distance)  
 [24비트 PNG로 변환](https://ko.onlineconvert.com/png-to-png24-converter)  
@@ -82,6 +73,12 @@ retro game development book helper
 [Oscar Toledo](https://nanochess.org/retro.html)  
 [princess quest](https://nanochess.org/princess_quest.html)  
 [프린세스 퀘스트 안드로이드](https://play.google.com/store/apps/details?id=com.juhang.fmsx_sdl)  
+
+### 레퍼런스
+[SDL](https://www.libsdl.org/)  
+[SFML](https://www.sfml-dev.org/)  
+[Cocos2d-x](cocos2d-x)  
+[Allegro](https://liballeg.org/)  
 
 ## Chapter 11  
 [Relearning MSX](https://medium.com/relearning-msx)  
