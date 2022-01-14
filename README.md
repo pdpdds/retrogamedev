@@ -53,13 +53,14 @@ retro game development book helper
 [Tiles & Maps Generator](http://msx.sagaz.es/AutoTilerScreen2.php)  
 
 ### 참고 툴
+
 #### 맵 에디터
 [gdevelop](https://gdevelop-app.com/ko/make-8bit-pixelart-games)  
 [tilesetter](https://www.tilesetter.org)  
 [온라인 타일맵 에디터](http://riskylab.com/tilemap) 
 [타일 스튜디오](http://tilestudio.sourceforge.net)  
 
-### 스프라이트 제작
+#### 스프라이트 제작
 [Aku Sprite Editor](https://www.chibiakumas.com/akusprite)  
 [픽픽](https://picpick.app/ko)  
 [Pixel Editor](https://danielx.net/pixel-editor)  
