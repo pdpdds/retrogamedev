@@ -134,6 +134,10 @@ retro game development book helper
 [MSX1 픽셀 기반 스크롤](https://www.youtube.com/watch?v=DHH6y9le7BU)  
 [MSX1 픽셀 기반 스크롤 영상2](https://www.youtube.com/watch?v=2up41-p091k)
 
+
+## MSX 마무리
+[openmsxgdb](https://bitbucket.org/erik_maas/openmsxgdb/src/master)  
+
 ## Chapter 13
 [보호모드 진입 및 빠져나기기](http://www.rcollins.org/articles/pmbasics/tspec_a1_doc.html)  
 
