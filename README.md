@@ -92,8 +92,16 @@ retro game development book helper
 [AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)
 
 ## Chapter 12
-https://github.com/cc65/cc65  
 [크로스 컴파일러 소개](https://www.nabeta.tk/msx/crosscc.html)  
+
+### SDCC
+[스타트업 코드](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)  
+[MSX SDCC Boilerplate](https://github.com/jannone/msx-sdcc-boilerplate)  
+[MSX 32K Startup](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)  
+[libMSX](https://github.com/mori0091/libmsx)  
+[Skeleton C project for MSX](https://github.com/sndpl/skeleton-sdcc-msx)  
+[Atlanta]([https://github.com/sfranck72/Atalanta)  
+[azombie](https://github.com/samsaga2/azombie)  
 
 ### fusion C 1.2
 [MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
@@ -104,13 +112,7 @@ https://github.com/cc65/cc65
 [z88dk 템플릿 빌드환경 구축](https://maple4estry.netlify.app/z88dk-msx/)  
 [z88dk 템플릿 빌드환경 구축](https://github.com/h1romas4/z88dk-msx-template)   
  
-### SDCC
-[MSX SDCC Boilerplate](https://github.com/jannone/msx-sdcc-boilerplate)  
-[MSX 32K Startup](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)  
-[libMSX](https://github.com/mori0091/libmsx)  
-[Skeleton C project for MSX](https://github.com/sndpl/skeleton-sdcc-msx)  
-[Atlanta]([https://github.com/sfranck72/Atalanta)  
-[azombie](https://github.com/samsaga2/azombie)  
+
 
 
 [I.N.E.R.T.I.A](http://andrear.altervista.org/home/inertia.php)  
@@ -138,7 +140,7 @@ https://github.com/cc65/cc65
 
 ### 기타
 [msx2daad](https://github.com/nataliapc/msx2daad)  
-
+https://github.com/cc65/cc65  
 
 
 ### 
