@@ -129,7 +129,7 @@ retro game development book helper
 
 
 ### Visual Studio
-[MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)
+[MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)  
 [Arya](https://github.com/albs-br/arya)
 
 ### RetroDeluxe Game Engine
