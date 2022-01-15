@@ -97,28 +97,11 @@ retro game development book helper
 ### SDCC
 [MSX 32K Startup](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)  
 [Skeleton C project for MSX](https://github.com/sndpl/skeleton-sdcc-msx)  
-[MSX SDCC Boilerplate](https://github.com/jannone/msx-sdcc-boilerplate)  
-
 [libMSX](https://github.com/mori0091/libmsx)  
-
-[Atlanta](https://github.com/sfranck72/Atalanta)  
-[azombie](https://github.com/samsaga2/azombie)  
-
-### fusion C 1.2
-[MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
-[FUSION-C: MSX C Library complete journey](https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612)  
-
-### Z88DK
-[z88dk 다운로드](http://nightly.z88dk.org/)  
-[z88dk 템플릿 빌드환경 구축](https://maple4estry.netlify.app/z88dk-msx/)  
-[z88dk 템플릿 빌드환경 구축](https://github.com/h1romas4/z88dk-msx-template)   
- 
-
-
-
+[MSX SDCC Boilerplate](https://github.com/jannone/msx-sdcc-boilerplate)  
 [I.N.E.R.T.I.A](http://andrear.altervista.org/home/inertia.php)  
-[기타](https://andrear.altervista.org/home/msxsoftware.php)  
 [MSX Fighter](https://github.com/arcadenea/msxfighter)  
+[azombie](https://github.com/samsaga2/azombie)  
 
 ### HI-Tech C
 [HI-TECH Z80 C compiler MS-DOS](https://github.com/agn453/HI-TECH-Z80-C-Cross-Compiler)  
@@ -129,8 +112,25 @@ retro game development book helper
 
 #### 확인안된 리소스
 [MSX Asteroids](https://github.com/MBilderbeek/bigblast)  
-[HITECH-C 라이브러리](https://www.vector.co.jp/soft/other/msx/se148476.html?a8=v4ucY4bPL-a)
+[HITECH-C 라이브러리](https://www.vector.co.jp/soft/other/msx/se148476.html?a8=v4ucY4bPL-a)  
 [Snow demo](https://github.com/MBilderbeek/sneeuw)  
+
+### fusion C 1.2
+[MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
+[FUSION-C: MSX C Library complete journey](https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612)  
+[Atlanta](https://github.com/sfranck72/Atalanta)  
+
+### Z88DK
+[z88dk 다운로드](http://nightly.z88dk.org/)  
+[z88dk 템플릿 빌드환경 구축](https://maple4estry.netlify.app/z88dk-msx/)  
+[z88dk 템플릿 빌드환경 구축](https://github.com/h1romas4/z88dk-msx-template)   
+ 
+
+
+[기타](https://andrear.altervista.org/home/msxsoftware.php)  
+
+
+
 
 
 ### Visual Studio
