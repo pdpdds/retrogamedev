@@ -116,8 +116,9 @@ retro game development book helper
 [Snow demo](https://github.com/MBilderbeek/sneeuw)  
 
 ### fusion C 1.2
-[MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
 [FUSION-C: MSX C Library complete journey](https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612)  
+[FUSION-C 1.2](https://github.com/ericb59/Fusion-C-v1.2)  
+[MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
 [Atlanta](https://github.com/sfranck72/Atalanta)  
 
 ### Z88DK
