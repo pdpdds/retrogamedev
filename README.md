@@ -95,12 +95,13 @@ retro game development book helper
 [크로스 컴파일러 소개](https://www.nabeta.tk/msx/crosscc.html)  
 
 ### SDCC
-[스타트업 코드](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)  
-[MSX SDCC Boilerplate](https://github.com/jannone/msx-sdcc-boilerplate)  
 [MSX 32K Startup](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)  
-[libMSX](https://github.com/mori0091/libmsx)  
 [Skeleton C project for MSX](https://github.com/sndpl/skeleton-sdcc-msx)  
-[Atlanta]([https://github.com/sfranck72/Atalanta)  
+[MSX SDCC Boilerplate](https://github.com/jannone/msx-sdcc-boilerplate)  
+
+[libMSX](https://github.com/mori0091/libmsx)  
+
+[Atlanta](https://github.com/sfranck72/Atalanta)  
 [azombie](https://github.com/samsaga2/azombie)  
 
 ### fusion C 1.2
