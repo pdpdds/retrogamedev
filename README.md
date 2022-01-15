@@ -2,7 +2,6 @@
 retro game development book helper
 
 # Chapter 1
-
 * [BlueMSX](http://bluemsx.msxblue.com/download.html)
 * [WebMSX](https://webmsx.org/)
 * [openMSX](https://openmsx.org/)
@@ -11,9 +10,7 @@ retro game development book helper
 * [MSX 슬롯 프로그래밍](https://www.msx.org/wiki/Slots)    
 
 # Chapter2
-
 * [WSL2 설치](https://docs.microsoft.com/ko-kr/windows/wsl/install-manual)
-
 * [MSX 스크린 모드](https://www.msx.org/wiki/SCREEN)  
 * [Pyramid Quest](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/pyramid.rom)
 
@@ -33,7 +30,6 @@ retro game development book helper
   
 ## Chapter 8
 [비쥬얼 스튜디오 이전버전 다운받기](https://visualstudio.microsoft.com/ko/vs/older-downloads)
-
 [타일 기반 배경 스크롤 영상](https://youtu.be/62DRMjU0VJI)  
 [근접 색상 구하기](https://www.codeproject.com/Articles/1172815/Finding-Nearest-Colors-using-Euclidean-Distance)  
 [24비트 PNG로 변환](https://ko.onlineconvert.com/png-to-png24-converter)  
@@ -80,7 +76,7 @@ retro game development book helper
 [Cocos2d-x](cocos2d-x)  
 [Allegro](https://liballeg.org/)  
 
-## Chapter 11  
+## Chapter 11 MSX-C
 [Relearning MSX](https://medium.com/relearning-msx)  
 [Relearning MSX](http://www.lavandeira.net/relearning-msx)  
 [MSX-C 컴파일러](https://github.com/fr3nd/msx-c-compiler)  
@@ -126,15 +122,8 @@ retro game development book helper
 [Arya](https://github.com/albs-br/arya)
 [MSXTetris](https://github.com/pdpdds/MSXTetris)
 
-
 ### Z88DK
 [z88dk 다운로드](http://nightly.z88dk.org/)  
-[z88dk 템플릿 빌드환경 구축](https://maple4estry.netlify.app/z88dk-msx/)  
-[z88dk 템플릿 빌드환경 구축](https://github.com/h1romas4/z88dk-msx-template)   
-
-
-
-
 
 ### RetroDeluxe Game Engine
 [RetroDeluxe Game Engine](https://github.com/retrodeluxe/rlengine-msx)  
@@ -142,20 +131,8 @@ retro game development book helper
 
 ### 기타
 [msx2daad](https://github.com/nataliapc/msx2daad)  
-https://github.com/cc65/cc65  
- 
-
-
-[기타](https://andrear.altervista.org/home/msxsoftware.php)  
-
-
-
-
-### 
 [MSX1 픽셀 기반 스크롤](https://www.youtube.com/watch?v=DHH6y9le7BU)  
 [MSX1 픽셀 기반 스크롤 영상2](https://www.youtube.com/watch?v=2up41-p091k)
-
-
 
 ## Chapter 13
 [보호모드 진입 및 빠져나기기](http://www.rcollins.org/articles/pmbasics/tspec_a1_doc.html)  
