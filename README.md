@@ -82,7 +82,7 @@ retro game development book helper
 
 ## Chapter 11  
 [Relearning MSX](https://medium.com/relearning-msx)  
-[Relearning MSX](http://www.lavandeira.net/relearning-msx/)  
+[Relearning MSX](http://www.lavandeira.net/relearning-msx)  
 [MSX-C 컴파일러](https://github.com/fr3nd/msx-c-compiler)  
 [샘플 프로젝트](https://github.com/sndpl/msx-c-examples)  
 [틱택토](https://github.com/ocitygate/TicTacToe)  
@@ -91,7 +91,7 @@ retro game development book helper
 [Panasonic FS A1GT에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/M0tziyo6rBI)  
 [AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)
 
-## Chapter 12
+## Chapter 12 MSX 개발 레퍼런스
 [크로스 컴파일러 소개](https://www.nabeta.tk/msx/crosscc.html)  
 
 ### SDCC
@@ -124,12 +124,6 @@ retro game development book helper
 [z88dk 다운로드](http://nightly.z88dk.org/)  
 [z88dk 템플릿 빌드환경 구축](https://maple4estry.netlify.app/z88dk-msx/)  
 [z88dk 템플릿 빌드환경 구축](https://github.com/h1romas4/z88dk-msx-template)   
- 
-
-
-[기타](https://andrear.altervista.org/home/msxsoftware.php)  
-
-
 
 
 
@@ -144,6 +138,12 @@ retro game development book helper
 ### 기타
 [msx2daad](https://github.com/nataliapc/msx2daad)  
 https://github.com/cc65/cc65  
+ 
+
+
+[기타](https://andrear.altervista.org/home/msxsoftware.php)  
+
+
 
 
 ### 
