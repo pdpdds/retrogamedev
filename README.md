@@ -121,15 +121,17 @@ retro game development book helper
 [MSX Fighter](https://github.com/arcadenea/msxfighter)  
 
 ### HI-Tech C
-[HI-TECH Z80 C compiler](https://github.com/agn453/HI-TECH-Z80-C-Cross-Compiler)  
-[MSX Asteroids](https://github.com/MBilderbeek/bigblast)  
+[HI-TECH Z80 C compiler MS-DOS](https://github.com/agn453/HI-TECH-Z80-C-Cross-Compiler)  
 [CP/M program EXEcutor for Win32 0.4](https://www.vector.co.jp/download/file/win95/util/fh577850.html)  
 [CP/M program EXEcutor](http://hp.vector.co.jp/authors/VA000084)  
-[HITECH-C 라이브러리](https://www.vector.co.jp/soft/other/msx/se148476.html?a8=v4ucY4bPL-a)
+[https://github.com/artrag/C-experiments-for-msx](https://github.com/artrag/C-experiments-for-msx)  
+[CR3](https://www.nabeta.tk/en/msx/cr3develop.html)  
 
-#### 확인안됨
-[C-experiments-for-msx](https://github.com/artrag/C-experiments-for-msx)  
+#### 확인안된 리소스
+[MSX Asteroids](https://github.com/MBilderbeek/bigblast)  
+[HITECH-C 라이브러리](https://www.vector.co.jp/soft/other/msx/se148476.html?a8=v4ucY4bPL-a)
 [Snow demo](https://github.com/MBilderbeek/sneeuw)  
+
 
 ### Visual Studio
 [MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)
