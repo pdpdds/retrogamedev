@@ -115,11 +115,17 @@ retro game development book helper
 [HITECH-C 라이브러리](https://www.vector.co.jp/soft/other/msx/se148476.html?a8=v4ucY4bPL-a)  
 [Snow demo](https://github.com/MBilderbeek/sneeuw)  
 
-### fusion C 1.2
+### Fusion-C
 [FUSION-C: MSX C Library complete journey](https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612)  
 [FUSION-C 1.2](https://github.com/ericb59/Fusion-C-v1.2)  
 [MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
 [Atlanta](https://github.com/sfranck72/Atalanta)  
+
+### Visual Studio
+[MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)  
+[Arya](https://github.com/albs-br/arya)
+[MSXTetris](https://github.com/pdpdds/MSXTetris)
+
 
 ### Z88DK
 [z88dk 다운로드](http://nightly.z88dk.org/)  
@@ -128,9 +134,7 @@ retro game development book helper
 
 
 
-### Visual Studio
-[MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)  
-[Arya](https://github.com/albs-br/arya)
+
 
 ### RetroDeluxe Game Engine
 [RetroDeluxe Game Engine](https://github.com/retrodeluxe/rlengine-msx)  
