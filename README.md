@@ -189,9 +189,9 @@ retro game development book helper
 
 ### 패밀리 컴퓨터
 [에뮬레이터](http://www.qmtpro.com/~nes/nintendulator/#downloads)  
-[CC65 윈도우즈용](https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download)
+[CC65 윈도우즈용](https://sourceforge.net/projects/cc65/files/cc65-snapshot-win32.zip/download)  
 [HelloWorld](https://github.com/nesdoug/01_Hello)  
-[NES Game Demo](https://github.com/nesdoug/26_Full_Game)
+[NES Game Demo](https://github.com/nesdoug/26_Full_Game)  
 [Program a NES game in C](https://nesdoug.com/)
 
 ### 메가 드라이브
