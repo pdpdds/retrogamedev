@@ -216,6 +216,10 @@ retro game development book helper
 [SDCC_VS](https://github.com/ssjason123/SDCC_VS)  
 
 ## 부록
+
+### SDL
+[Lazy Foo' Productions](https://lazyfoo.net/tutorials/SDL)  
+
 ### MSX 게임 플레이 해보기
 [https://www.file-hunter.com](https://www.file-hunter.com)
 [http://www.jamsx.com](http://www.jamsx.com)
