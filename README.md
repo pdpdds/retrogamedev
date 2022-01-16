@@ -22,6 +22,7 @@ retro game development book helper
 
 ## Chapter 5
 
+
 ## Chapter 6
 [tiled 맵 사용법](https://thd0011.tistory.com/12)
 
@@ -217,9 +218,6 @@ retro game development book helper
 ## 부록
 [MSX 베이직 게임](http://msxbasic.blogspot.com)
 
-# Chapter 2
-
-
 > MSX Game Play
 * [https://www.file-hunter.com](https://www.file-hunter.com)
 * [http://www.jamsx.com](http://www.jamsx.com)
@@ -249,10 +247,11 @@ retro game development book helper
 [8bitworkshop IDE](https://8bitworkshop.com/v3.8.0/?platform=msx&file=helloworld.asm)
 
 [8비트 워크샵 매뉴얼](http://8bitworkshop.com/blog/docs/ide.md.html)
-
-
-
 https://www.smspower.org/Development/Z80-Index
+
+[aPlib 홈페이지](https://ibsensoftware.com/products_aPLib.html)  
+[apultra](https://github.com/emmanuel-marty/apultra)  
+[libdivsufsort](https://github.com/y-256/libdivsufsort)  
 
 
 ## 레퍼런스
