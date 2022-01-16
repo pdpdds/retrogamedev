@@ -219,6 +219,9 @@ retro game development book helper
 
 ### SDL
 [Lazy Foo' Productions](https://lazyfoo.net/tutorials/SDL)  
+[SDL 게임 프로젝트 모음](https://github.com/pdpdds/SDLGameProgramming)  
+[SDL과 C++를 이용한 크로스 플랫폼 프로그래밍 샘플 코드](https://github.com/pdpdds/SDLProgramming)  
+[SDL Game Development 샘플 코드](https://github.com/kirbyboy/SDL-game-development-source-code)
 
 ### MSX 게임 플레이 해보기
 [https://www.file-hunter.com](https://www.file-hunter.com)
