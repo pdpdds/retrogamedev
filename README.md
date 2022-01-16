@@ -177,7 +177,7 @@ retro game development book helper
 
 ### 기타
 [16비트 응용앱의 리버스 엔지니어링](http://blog.ssokolow.com/archives/2018/12/02/resources-for-reverse-engineering-16-bit-applications/)  
-
+[MS-DOS 디컴파일러](https://sourceforge.net/projects/decompiler)
 
 ## Chapter 14
 ### 아미가
