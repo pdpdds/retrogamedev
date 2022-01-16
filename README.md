@@ -251,8 +251,8 @@ retro game development book helper
 [tniasm](http://www.tni.nl/products/tniasm.html)  
 [퐁](http://www.z80st.es/downloads/code)  
 [asMSX](https://github.com/Fubukimaru/asMSX)
-[메탈기어 솔리드 2](https://github.com/theNestruo/MetalGear)  
-
+[메탈기어](https://github.com/theNestruo/MetalGear)  
+[Sjasm](https://github.com/Konamiman/Sjasm)  
 
 ### 자바
 [Tabmegx](http://ni.x0.com/msx/tabmegx/)
