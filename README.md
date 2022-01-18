@@ -251,6 +251,20 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 [bas2tap](https://github.com/andybalaam/bas2tap)  
 [참조](https://github.com/derekfountain/z88dk-zxspectrum-examples)  
 
+### PC-엔진
+https://pcengine.proboards.com/board/5/homebrew-development
+
+http://obeybrew.com/programmingwithhuc.html
+
+http://www.zeograd.com/download_presentation.php?lang=en&id=312
+
+http://www.zeograd.com/parse.php?src=hucf
+
+https://cafe.naver.com/gamedol/22292
+
+
+
+
 ## 부록
 
 ### SDL
