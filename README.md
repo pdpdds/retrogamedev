@@ -242,6 +242,15 @@ retro game development book helper
 [Platform Explorer](https://www.smspower.org/Homebrew/PlatformExplorer-SMS)  
 
 
+https://github.com/derekfountain/z88dk-zxspectrum-examples
+
+### ZX Spectrum 48K 
+
+[Fuse 에뮬레이터](http://fuse-emulator.sourceforge.net)  
+[튜토리얼](https://github.com/derekfountain/z88dk-zxspectrum-examples)  
+[브레이크아웃](C:\Users\juhan\Downloads\z88dk_sp1_breakout-master\z88dk_sp1_breakout-master)  
+
+
 ## 부록
 
 ### SDL
