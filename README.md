@@ -252,11 +252,13 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 [참조](https://github.com/derekfountain/z88dk-zxspectrum-examples)  
 
 ### PC-엔진
-https://pcengine.proboards.com/board/5/homebrew-development
+[HUC 다운로드](http://www.zeograd.com/download_presentation.php?lang=en&id=312)  
+[HUC 프로그래밍 튜토리얼](http://obeybrew.com/programmingwithhuc.html)  
+[커뮤니티](https://pcengine.proboards.com/board/5/homebrew-development)  
 
-http://obeybrew.com/programmingwithhuc.html
 
-http://www.zeograd.com/download_presentation.php?lang=en&id=312
+
+
 
 http://www.zeograd.com/parse.php?src=hucf
 
