@@ -237,8 +237,9 @@ retro game development book helper
 ### 세가 마스터 시스템
 
 [devkitSMS](https://github.com/sverx/devkitSMS)  
-[Candy Kid Demo](http://steveproxna.blogspot.com/2017/11/devkitsms-programming-sample.html)  
 [Dega](https://segaretro.org/Dega)  
+[Candy Kid Demo](http://steveproxna.blogspot.com/2017/11/devkitsms-programming-sample.html)  
+[Platform Explorer](https://www.smspower.org/Homebrew/PlatformExplorer-SMS)  
 
 
 ## 부록
