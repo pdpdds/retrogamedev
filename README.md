@@ -229,6 +229,8 @@ retro game development book helper
 ### 암스트래드 CPC
 
 ### X68000
+[XM6](https://mijet.eludevisibility.org/XM6%20Pro-68k/XM6%20Pro-68k.html)  
+
 
 
 ## 부록
