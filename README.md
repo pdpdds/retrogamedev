@@ -246,10 +246,10 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 
 ### ZX Spectrum 48K 
 
-[Fuse 에뮬레이터](http://fuse-emulator.sourceforge.net)  
-[튜토리얼](https://github.com/derekfountain/z88dk-zxspectrum-examples)  
+[Fuse 에뮬레이터](http://fuse-emulator.sourceforge.net)    
 [브레이크아웃](https://github.com/antoniocmateus/z88dk_sp1_breakout)  
 [bas2tap](https://github.com/andybalaam/bas2tap)  
+[참조](https://github.com/derekfountain/z88dk-zxspectrum-examples)  
 
 ## 부록
 
