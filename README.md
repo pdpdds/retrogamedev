@@ -222,9 +222,9 @@ retro game development book helper
 [gcc-arm-none-eabi](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)  
 
 [레퍼런스1](http://www.loirak.com/gameboy/gbatutor.php)    
-[레퍼런스2](https://github.com/JPTIZ/libgba-cpp)  
-[레퍼런스3](https://www.reddit.com/r/cpp/comments/jrjj2n/butano_a_modern_c_high_level_engine_for_the_gba)  
-[레퍼런스4](https://wikidocs.net/book/4878)
+[레퍼런스2](https://wikidocs.net/book/4878)
+[C++ 라이브러리](https://github.com/JPTIZ/libgba-cpp)
+[Butano Fighter](https://www.reddit.com/r/cpp/comments/jrjj2n/butano_a_modern_c_high_level_engine_for_the_gba)
 
 ### 암스트래드 CPC
 
