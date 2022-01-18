@@ -201,19 +201,35 @@ retro game development book helper
 [Gens KMod](https://segaretro.org/Gens_KMod)  
 [Metal Slug Warfare Demo](https://github.com/StudioVetea/Metal-Slug-Warfare-Demo--Megadrive-)  
 
+### 게임보이
+[Gameboy Development KIT](https://sourceforge.net/projects/gbdk/)  
+[BGB 에뮬레이터](https://bgb.bircd.org/)
+
+#### 비쥬얼 스튜디오를 통한 동적 디버깅 개발
+[SDCC_VS](https://github.com/ssjason123/SDCC_VS)  
+[gbdk4.05](https://github.com/gbdk-2020/gbdk-2020)  
+[Emulicious 에뮬레이터](https://emulicious.net/downloads)  
+
+
 ### GBA
 
 [devkitadv](http://devkitadv.sourceforge.net)  
 [VBA](https://sourceforge.net/projects/vba)  
-[레퍼런스1](http://www.loirak.com/gameboy/gbatutor.php)  
-[레퍼런스2](https://wikidocs.net/89723)  
-[레퍼런스3](https://github.com/JPTIZ/libgba-cpp)  
-[레퍼런스4](https://www.reddit.com/r/cpp/comments/jrjj2n/butano_a_modern_c_high_level_engine_for_the_gba)  
+[타일 모드](http://ianfinlayson.net/class/cpsc305/notes/13-tiles)  
+[비트맵 모드](https://www.coranac.com/tonc/text/bitmaps.htm)
 
-### GB
-[Gameboy Development KIT](https://sourceforge.net/projects/gbdk/)  
-[BGB 에뮬레이터](https://bgb.bircd.org/)  
-[SDCC_VS](https://github.com/ssjason123/SDCC_VS)  
+[배틀시티](https://github.com/matzar/BattleCity-GBA)  
+[gcc-arm-none-eabi](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)  
+
+[레퍼런스1](http://www.loirak.com/gameboy/gbatutor.php)    
+[레퍼런스2](https://github.com/JPTIZ/libgba-cpp)  
+[레퍼런스3](https://www.reddit.com/r/cpp/comments/jrjj2n/butano_a_modern_c_high_level_engine_for_the_gba)  
+[레퍼런스4](https://wikidocs.net/book/4878)
+
+### 암스트래드 CPC
+
+### X68000
+
 
 ## 부록
 
