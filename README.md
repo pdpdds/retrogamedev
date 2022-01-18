@@ -234,6 +234,11 @@ retro game development book helper
 ### X68000
 [XM6](https://mijet.eludevisibility.org/XM6%20Pro-68k/XM6%20Pro-68k.html)  
 
+### 세가 마스터 시스템
+
+[devkitSMS](https://github.com/sverx/devkitSMS)  
+[개발 튜토리얼](http://steveproxna.blogspot.com/2017/11/devkitsms-programming-sample.html)  
+[Dega](https://segaretro.org/Dega)  
 
 
 ## 부록
