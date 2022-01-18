@@ -256,13 +256,9 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 [HUC 프로그래밍 튜토리얼](http://obeybrew.com/programmingwithhuc.html)  
 [커뮤니티](https://pcengine.proboards.com/board/5/homebrew-development)  
 
+### 세가새턴
+[Saturn Game Tutorial](http://www.rockin-b.de/saturn/saturngametutorial/SaturnGameTutorial.htm#setupSaturnOrbit)  
 
-
-
-
-http://www.zeograd.com/parse.php?src=hucf
-
-https://cafe.naver.com/gamedol/22292
 
 
 
