@@ -220,6 +220,9 @@ retro game development book helper
 
 [배틀시티](https://github.com/matzar/BattleCity-GBA)  
 [dekitPro 3.03](https://github.com/devkitPro/installer/releases)  
+[Programmer's Notepad](https://www.pnotepad.org)  
+[Programmer's Notepad와 devkitPro 연동](https://devkitpro.org/wiki/editors/Programmer%27s_Notepad)
+
 
 [레퍼런스1](http://www.loirak.com/gameboy/gbatutor.php)    
 [레퍼런스2](https://wikidocs.net/book/4878)  
