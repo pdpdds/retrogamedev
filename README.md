@@ -264,7 +264,8 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 ### 코모도어 64
 
 [에뮬레이터](https://sourceforge.net/projects/vice-emu)  
-
+[코모도어 도스](https://ko.wikipedia.org/wiki/%EC%BD%94%EB%AA%A8%EB%8F%84%EC%96%B4_%EB%8F%84%EC%8A%A4)    
+[코모도어64 게임](http://www.retrogamescollector.com/the-bear-essentials-developing-a-commodore-64-game/)  
 
 
 ## 부록
