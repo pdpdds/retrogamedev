@@ -267,7 +267,8 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 [코모도어 도스](https://ko.wikipedia.org/wiki/%EC%BD%94%EB%AA%A8%EB%8F%84%EC%96%B4_%EB%8F%84%EC%8A%A4)  
 [DirMaster](https://style64.org/release/dirmaster-v3.1.5-style]  
 [슈퍼 점프 킥 터보](https://github.com/pmprog/SuperJumpKickTurbo64)  
-[코모도어64 프로그래밍](http://www.retrogamescollector.com/the-bear-essentials-developing-a-commodore-64-game)  
+[C64Maze](https://github.com/DarwinNE/C64maze)  
+[C64Maze WIN32 PORT](https://youtu.be/gkWtzJThE9c)  
 
 
 ## 부록
