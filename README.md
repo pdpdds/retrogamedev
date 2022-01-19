@@ -257,9 +257,13 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 [커뮤니티](https://pcengine.proboards.com/board/5/homebrew-development)  
 
 ### 세가새턴
+[SatrunOrbit](http://www.rockin-b.de/windows-saturnorbit.html)  
 [Saturn Game Tutorial](http://www.rockin-b.de/saturn/saturngametutorial/SaturnGameTutorial.htm#setupSaturnOrbit)  
 [Jo Sega Saturn Engine](https://jo-engine.org/)  
 
+### 코모도어 64
+
+[에뮬레이터](https://sourceforge.net/projects/vice-emu)  
 
 
 
