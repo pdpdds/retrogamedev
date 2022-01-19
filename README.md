@@ -270,6 +270,10 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 [C64Maze](https://github.com/DarwinNE/C64maze)  
 [C64Maze WIN32 PORT](https://youtu.be/gkWtzJThE9c)  
 
+### 3DO
+[개발환경 구축](https://3dodev.com/tutorials/optimus/setting_up_the_development_environment)  
+
+
 
 ## 부록
 
