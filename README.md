@@ -141,10 +141,13 @@ retro game development book helper
 
 ## Chapter 13
 [보호모드 진입 및 빠져나기기](http://www.rcollins.org/articles/pmbasics/tspec_a1_doc.html)  
-
+[도스 익스텐더](https://ko.wikipedia.org/wiki/%EB%8F%84%EC%8A%A4_%ED%99%95%EC%9E%A5%EC%9E%90)  
 
 ### 도스 컴파일러
 [DJGPP](http://www.delorie.com/djgpp)  
+[Orange C/C++ 컴파일러](https://ladsoft.tripod.com/orange_c_compiler.html)  
+
+[도스용 에디터 리스트](http://texteditors.org/cgi-bin/wiki.pl?MsDosEditors)  
 
 ### 샘플 프로젝트
 [테트리스 예제 2](https://github.com/pdpdds/allegro4_dos/releases/tag/v1.0)  
