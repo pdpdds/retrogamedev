@@ -142,6 +142,7 @@ retro game development book helper
 ## Chapter 13
 [보호모드 진입 및 빠져나기기](http://www.rcollins.org/articles/pmbasics/tspec_a1_doc.html)  
 [도스 익스텐더](https://ko.wikipedia.org/wiki/%EB%8F%84%EC%8A%A4_%ED%99%95%EC%9E%A5%EC%9E%90)  
+[HX DOS Extender](https://www.japheth.de/HX.html)  
 
 ### 도스 컴파일러
 [DJGPP](http://www.delorie.com/djgpp)  
@@ -178,11 +179,19 @@ retro game development book helper
 [Fast Sqrt](https://github.com/erich666/GraphicsGems)  
 [폭스레인저 2 리메이크 툴](https://github.com/pdpdds/allegro4_dos/releases)
 
+### 레퍼런스
+[Borland C++ 3.1 프로그래밍](https://github.com/johangardhage/dos-bcdemos)
+
 ### 기타
 [16비트 응용앱의 리버스 엔지니어링](http://blog.ssokolow.com/archives/2018/12/02/resources-for-reverse-engineering-16-bit-applications/)  
 [MS-DOS 디컴파일러](https://sourceforge.net/projects/decompiler)
 
+
+
+
+
 ## Chapter 14
+
 ### 아미가
 [WINUAE 4.9.0](https://www.winuae.net/download/)  
 [Kickstart v1.3 rev 34.5](http://amigamuseum.emu-france.info/Fichiers/ADF/-%20Kickstarts/KS-ROMs)  
