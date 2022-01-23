@@ -72,27 +72,6 @@ retro game development book helper
 [Cocos2d-x](cocos2d-x)  
 [Allegro](https://liballeg.org/)  
 
-## Chapter 11 MSX-C
-[Relearning MSX](https://medium.com/relearning-msx)  
-[Relearning MSX](http://www.lavandeira.net/relearning-msx)  
-[MSX-C 컴파일러](https://github.com/fr3nd/msx-c-compiler)  
-[샘플 프로젝트](https://github.com/sndpl/msx-c-examples)  
-[틱택토](https://github.com/ocitygate/TicTacToe)  
-[Introduction to MSX-C](https://github.com/sndpl/msx-c-intro)  
-[필립스 머신에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/S1EYY43_fEk)  
-[Panasonic FS A1GT에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/M0tziyo6rBI)  
-[AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)  
-
-## Chapter 13
-[보호모드 진입 및 빠져나기기](http://www.rcollins.org/articles/pmbasics/tspec_a1_doc.html)  
-[도스 익스텐더](https://ko.wikipedia.org/wiki/%EB%8F%84%EC%8A%A4_%ED%99%95%EC%9E%A5%EC%9E%90)  
-[HX DOS Extender](https://www.japheth.de/HX.html)  
-[HX DOS](https://sourceforge.net/projects/hx-dos)  
-
-### 도스 컴파일러
-[DJGPP](http://www.delorie.com/djgpp)  
-[Orange C/C++ 컴파일러](https://ladsoft.tripod.com/orange_c_compiler.html)  
-
 ## Chapter 14
 [도스 개발 시스템](https://wikidocs.net/book/7050)  
 
