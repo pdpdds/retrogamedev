@@ -368,3 +368,4 @@ https://www.smspower.org/Development/Z80-Index
 [tinyMSX](https://github.com/suzukiplan/tinymsx)  
 [MARMSX](http://marmsx.msxall.com/english.php)  
 [C와 Z80 어셈블리 통신](https://gist.github.com/Konamiman/af5645b9998c802753023cf1be8a2970)  
+[Awesome C](https://github.com/inputsh/awesome-c)  
