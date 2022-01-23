@@ -81,58 +81,7 @@ retro game development book helper
 [Introduction to MSX-C](https://github.com/sndpl/msx-c-intro)  
 [필립스 머신에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/S1EYY43_fEk)  
 [Panasonic FS A1GT에서 MSX-DOS와 MSX-C를 사용하여 프로젝트를 빌드하는 영상](https://youtu.be/M0tziyo6rBI)  
-[AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)
-
-## Chapter 12 MSX 개발 레퍼런스
-[크로스 컴파일러 소개](https://www.nabeta.tk/msx/crosscc.html)  
-
-### SDCC
-[MSX 32K Startup](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)  
-[Skeleton C project for MSX](https://github.com/sndpl/skeleton-sdcc-msx)  
-[libMSX](https://github.com/mori0091/libmsx)  
-[MSX SDCC Boilerplate](https://github.com/jannone/msx-sdcc-boilerplate)  
-[I.N.E.R.T.I.A](http://andrear.altervista.org/home/inertia.php)  
-[MSX Fighter](https://github.com/arcadenea/msxfighter)  
-[azombie](https://github.com/samsaga2/azombie)  
-
-### HI-Tech C
-[HI-TECH Z80 C compiler MS-DOS](https://github.com/agn453/HI-TECH-Z80-C-Cross-Compiler)  
-[CP/M program EXEcutor for Win32 0.4](https://www.vector.co.jp/download/file/win95/util/fh577850.html)  
-[CP/M program EXEcutor](http://hp.vector.co.jp/authors/VA000084)  
-[https://github.com/artrag/C-experiments-for-msx](https://github.com/artrag/C-experiments-for-msx)  
-[CR3](https://www.nabeta.tk/en/msx/cr3develop.html)  
-
-#### 확인안된 리소스
-[MSX Asteroids](https://github.com/MBilderbeek/bigblast)  
-[HITECH-C 라이브러리](https://www.vector.co.jp/soft/other/msx/se148476.html?a8=v4ucY4bPL-a)  
-[Snow demo](https://github.com/MBilderbeek/sneeuw)  
-
-### Fusion-C
-[FUSION-C: MSX C Library complete journey](https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612)  
-[FUSION-C 1.2](https://github.com/ericb59/Fusion-C-v1.2)  
-[MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
-[Atlanta](https://github.com/sfranck72/Atalanta)  
-
-### Visual Studio
-[MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)  
-[Arya](https://github.com/albs-br/arya)
-[MSXTetris](https://github.com/pdpdds/MSXTetris)
-
-### Z88DK
-[z88dk 다운로드](http://nightly.z88dk.org/)  
-
-### RetroDeluxe Game Engine
-[RetroDeluxe Game Engine](https://github.com/retrodeluxe/rlengine-msx)  
-[l’Abbaye des Morts](https://www.msxdev.org/2020/07/27/msxdev20-15-labbaye-des-morts)  
-
-### 기타
-[msx2daad](https://github.com/nataliapc/msx2daad)  
-[MSX1 픽셀 기반 스크롤](https://www.youtube.com/watch?v=DHH6y9le7BU)  
-[MSX1 픽셀 기반 스크롤 영상2](https://www.youtube.com/watch?v=2up41-p091k)
-
-
-## MSX 마무리
-[openmsxgdb](https://bitbucket.org/erik_maas/openmsxgdb/src/master)  
+[AKID 편집기 사용](https://youtu.be/S1EYY43_fEk)  
 
 ## Chapter 13
 [보호모드 진입 및 빠져나기기](http://www.rcollins.org/articles/pmbasics/tspec_a1_doc.html)  
@@ -153,31 +102,6 @@ retro game development book helper
 ### 샘플 프로젝트
 [테트리스 예제 2](https://github.com/pdpdds/allegro4_dos/releases/tag/v1.0)  
 
-### 알레그로 4
-[알레그로 2D 엔진 홈페이지](https://liballeg.org)  
-[알레그로4 DJGPP](https://github.com/pdpdds/allegro4_dos/releases)  
-[알레그로4 프로그래밍 튜토리얼](https://github.com/pdpdds/allero4programming)  
-[스네이크 바이트](https://github.com/sbryant31/Snake)  
-[프로그래밍 가이드](https://liballeg.org/docs.html)  
-[https://github.com/hughbien/notebook](https://github.com/hughbien/notebook)  
-[https://www.youtube.com/watch?v=J9vRVMZldy8&t=430s](https://www.youtube.com/watch?v=J9vRVMZldy8&t=430s)  
-
-### 맵 에디터
-[Tiled](https://www.mapeditor.org)  
-[Mappy](https://tilemap.co.uk/mappy.php)  
-[Mappy 맵 사용 예제](http://retrospec.sgn.net/users/nwalker/axl/tranzam.html)  
-[game_programming_all_in_one](https://github.com/hughbien/notebook/blob/master/game_programming_all_in_one.md)  
-[서적 소스코드](http://jharbour.com/sources/)  
-[매피 맵 참고](http://fixbyproximity.com/2011/11/28/2d-game-dev-part-11-2-tile-backgrounds-with-mappy)  
-
-[AGS](https://www.adventuregamestudio.co.uk)  
-[AGS 2.3 DOS](https://dosgames.com/game/adventure-game-studio)
-
-### 폭스레인저 리메이크
-[Collections-C](https://github.com/srdja/Collections-C)  
-[sxmlc](https://github.com/matthieu-labas/sxmlc)  
-[Fast Sqrt](https://github.com/erich666/GraphicsGems)  
-[폭스레인저 2 리메이크 툴](https://github.com/pdpdds/allegro4_dos/releases)
 
 ### 레퍼런스
 [Borland C++ 3.1 프로그래밍](https://github.com/johangardhage/dos-bcdemos)
