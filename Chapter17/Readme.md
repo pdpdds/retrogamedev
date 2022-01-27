@@ -28,5 +28,10 @@
 ### 레퍼런스
 [Krono's Battle Zone](https://github.com/alvarogonzalezferrer/krono_battle_zone)  
 [LEGOIDS](https://github.com/HunterZ/legoids)  
-
 [Allegro GUI Un-uglfication Project](http://agup.sourceforge.net/)  
+
+### DJGPP
+[DJGPP ALLEGRO](http://www.delorie.com/pub/djgpp/current/v2tk/allegro)  
+[써드파티](http://www.delorie.com/pub/djgpp/current/v2tk)  
+[DJGPP FAQ](https://www.hzdr.de/FWR/VB/TUTORIALS/djgppfaq.html)
+
