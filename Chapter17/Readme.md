@@ -23,3 +23,8 @@
 [sxmlc](https://github.com/matthieu-labas/sxmlc)  
 [Fast Sqrt](https://github.com/erich666/GraphicsGems)  
 [폭스레인저 2 리메이크 툴](https://github.com/pdpdds/allegro4_dos/releases)
+
+
+### 레퍼런스
+[Krono's Battle Zone](https://github.com/alvarogonzalezferrer/krono_battle_zone)  
+[LEGOIDS](https://github.com/HunterZ/legoids)  
