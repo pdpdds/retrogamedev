@@ -15,8 +15,8 @@
 [서적 소스코드](http://jharbour.com/sources/)  
 [매피 맵 참고](http://fixbyproximity.com/2011/11/28/2d-game-dev-part-11-2-tile-backgrounds-with-mappy)  
 
-[AGS](https://www.adventuregamestudio.co.uk)  
-[AGS 2.3 DOS](https://dosgames.com/game/adventure-game-studio)
+[tmx parser](https://github.com/sainteos/tmxparser)
+[TMX C Loader](https://github.com/baylej/tmx)
 
 ### 폭스레인저 리메이크
 [Collections-C](https://github.com/srdja/Collections-C)  
