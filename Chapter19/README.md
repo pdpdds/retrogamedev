@@ -1,6 +1,9 @@
 [HX DOS Extender](https://www.japheth.de/HX.html)  
 [HX DOS Extender 다운로드](https://sourceforge.net/projects/hx-dos/files/)  
-[SDL 1.2 다운로드](https://sourceforge.net/projects/libsdl/files/SDL/1.2.15)  
+[SDL 1.2 다운로드](https://sourceforge.net/projects/libsdl/files/SDL/1.2.15)
+[HX DOS SDL Example](https://github.com/pdpdds/hxdos-sdl-example)  
+[팩맨#1](https://sourceforge.net/projects/pacmanincwithsd)  
+[팩맨#2](https://github.com/Ahmed310/PacMan)  
 
 ### 레퍼런스
 [Borland C++ 3.1 프로그래밍](https://github.com/johangardhage/dos-bcdemos)
