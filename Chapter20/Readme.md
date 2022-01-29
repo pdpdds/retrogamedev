@@ -95,3 +95,6 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 
 ### 애플
 [Apple IIe emulators for Windows](https://www.dosgamers.com/apple-iie/apple-iie-emulator-applewin)  
+[가상 디스크 생성](https://github.com/cc65/wiki/wiki/Apple-II-3.-Making-an-Apple-II-disk-for-an-emulator) 
+[AppleCommander](https://github.com/AppleCommander/AppleCommander/releases)  
+
