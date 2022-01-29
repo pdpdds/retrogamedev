@@ -92,3 +92,6 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 
 ### 3DO
 [개발환경 구축](https://3dodev.com/tutorials/optimus/setting_up_the_development_environment)  
+
+### 애플
+[Apple IIe emulators for Windows](https://www.dosgamers.com/apple-iie/apple-iie-emulator-applewin)  
