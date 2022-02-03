@@ -8,7 +8,7 @@
 [비쥬얼 스튜디오 코드에서 SDL2로 게임 개발](https://velog.io/@arais/VSCode-%EC%97%90%EC%84%9C-SDL2-%EC%99%80-C%EB%A1%9C-%EA%B2%8C%EC%9E%84%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 
 ### MSX 게임 플레이 해보기
-[https://www.file-hunter.com](https://www.file-hunter.com)
+[https://www.file-hunter.com](https://www.file-hunter.com)  
 [http://www.jamsx.com](http://www.jamsx.com)
 
 ### MSX 베이직
@@ -76,3 +76,4 @@ https://www.smspower.org/Development/Z80-Index
 [MARMSX](http://marmsx.msxall.com/english.php)  
 [C와 Z80 어셈블리 통신](https://gist.github.com/Konamiman/af5645b9998c802753023cf1be8a2970)  
 [Awesome C](https://github.com/inputsh/awesome-c)  
+[VSCODE와 WSL2를 사용해서 C++ 프로그램 개발](https://code.visualstudio.com/docs/cpp/config-wsl)  
