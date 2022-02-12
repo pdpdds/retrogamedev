@@ -6,7 +6,7 @@
 [팩맨#2](https://github.com/Ahmed310/PacMan)  
 
 ### 레퍼런스
-[Borland C++ 3.1 프로그래밍](https://github.com/johangardhage/dos-bcdemos)
+[Borland C++ 3.1 프로그래밍](https://github.com/johangardhage/dos-bcdemos)  
 [도스용 에디터 리스트](http://texteditors.org/cgi-bin/wiki.pl?MsDosEditors)  
 
 ### 기타
@@ -15,3 +15,7 @@
 
 [AGS](https://www.adventuregamestudio.co.uk)  
 [AGS 2.3 DOS](https://dosgames.com/game/adventure-game-studio)
+
+#### 네이티브 도스 프로그래밍
+
+[256-Color VGA Programming in C](http://www.brackeen.com/vga)  
