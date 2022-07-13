@@ -1,4 +1,3 @@
-[TOC]
 ## 에뮬레이터
 * [BlueMSX](http://bluemsx.msxblue.com/download.html)
 * [WebMSX](https://webmsx.org/)
