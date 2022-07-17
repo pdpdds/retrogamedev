@@ -87,6 +87,7 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 
 ### Chapter28 - 3DO
 [개발환경 구축](https://3dodev.com/tutorials/optimus/setting_up_the_development_environment)  
+[레퍼런스](https://github.com/hpearson/3DODevelopment)  
 
 ### Chapter29 - 세가새턴
 [SatrunOrbit](http://www.rockin-b.de/windows-saturnorbit.html)  
