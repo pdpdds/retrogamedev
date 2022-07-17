@@ -31,17 +31,7 @@
 [Emulicious 에뮬레이터](https://emulicious.net/downloads)  
 
 
-### GBA
 
-[devkitadv](http://devkitadv.sourceforge.net)  
-[VBA](https://sourceforge.net/projects/vba)  
-[타일 모드](http://ianfinlayson.net/class/cpsc305/notes/13-tiles)  
-[비트맵 모드](https://www.coranac.com/tonc/text/bitmaps.htm)
-
-[배틀시티](https://github.com/matzar/BattleCity-GBA)  
-[dekitPro 3.03](https://github.com/devkitPro/installer/releases)  
-[Programmer's Notepad](https://www.pnotepad.org)  
-[Programmer's Notepad와 devkitPro 연동](https://devkitpro.org/wiki/editors/Programmer%27s_Notepad)
 
 
 [레퍼런스1](http://www.loirak.com/gameboy/gbatutor.php)    
@@ -97,4 +87,16 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 [Apple IIe emulators for Windows](https://www.dosgamers.com/apple-iie/apple-iie-emulator-applewin)  
 [가상 디스크 생성](https://github.com/cc65/wiki/wiki/Apple-II-3.-Making-an-Apple-II-disk-for-an-emulator) 
 [AppleCommander](https://github.com/AppleCommander/AppleCommander/releases)  
+
+### Chapter30 - 게임보이 어드밴스
+
+[devkitadv](http://devkitadv.sourceforge.net)  
+[VBA](https://sourceforge.net/projects/vba)  
+[타일 모드](http://ianfinlayson.net/class/cpsc305/notes/13-tiles)  
+[비트맵 모드](https://www.coranac.com/tonc/text/bitmaps.htm)
+
+[배틀시티](https://github.com/matzar/BattleCity-GBA)  
+[dekitPro 3.03](https://github.com/devkitPro/installer/releases)  
+[Programmer's Notepad](https://www.pnotepad.org)  
+[Programmer's Notepad와 devkitPro 연동](https://devkitpro.org/wiki/editors/Programmer%27s_Notepad)
 
