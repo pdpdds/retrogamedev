@@ -66,10 +66,7 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 [HUC 프로그래밍 튜토리얼](http://obeybrew.com/programmingwithhuc.html)  
 [커뮤니티](https://pcengine.proboards.com/board/5/homebrew-development)  
 
-### 세가새턴
-[SatrunOrbit](http://www.rockin-b.de/windows-saturnorbit.html)  
-[Saturn Game Tutorial](http://www.rockin-b.de/saturn/saturngametutorial/SaturnGameTutorial.htm#setupSaturnOrbit)  
-[Jo Sega Saturn Engine](https://jo-engine.org/)  
+
 
 ### 코모도어 64
 
@@ -80,13 +77,21 @@ https://github.com/derekfountain/z88dk-zxspectrum-examples
 [C64Maze](https://github.com/DarwinNE/C64maze)  
 [C64Maze WIN32 PORT](https://youtu.be/gkWtzJThE9c)  
 
-### 3DO
-[개발환경 구축](https://3dodev.com/tutorials/optimus/setting_up_the_development_environment)  
 
 ### 애플
 [Apple IIe emulators for Windows](https://www.dosgamers.com/apple-iie/apple-iie-emulator-applewin)  
 [가상 디스크 생성](https://github.com/cc65/wiki/wiki/Apple-II-3.-Making-an-Apple-II-disk-for-an-emulator) 
 [AppleCommander](https://github.com/AppleCommander/AppleCommander/releases)  
+
+
+
+### Chapter28 - 3DO
+[개발환경 구축](https://3dodev.com/tutorials/optimus/setting_up_the_development_environment)  
+
+### Chapter29 - 세가새턴
+[SatrunOrbit](http://www.rockin-b.de/windows-saturnorbit.html)  
+[Saturn Game Tutorial](http://www.rockin-b.de/saturn/saturngametutorial/SaturnGameTutorial.htm#setupSaturnOrbit)  
+[Jo Sega Saturn Engine](https://jo-engine.org/)  
 
 ### Chapter30 - 게임보이 어드밴스
 
