@@ -4,6 +4,7 @@
 [에뮬레이터](https://sourceforge.net/projects/vice-emu)  
 [코모도어 도스](https://ko.wikipedia.org/wiki/%EC%BD%94%EB%AA%A8%EB%8F%84%EC%96%B4_%EB%8F%84%EC%8A%A4)  
 [DirMaster](https://style64.org/release/dirmaster-v3.1.5-style)  
+[C64 게임 리스트](https://www.planetemu.net/roms/commodore-c64-games-d64)  
 
 ### Chapter22 - 패밀리 컴퓨터
 [에뮬레이터](http://www.qmtpro.com/~nes/nintendulator/#downloads)  
