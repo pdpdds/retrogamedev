@@ -10,6 +10,7 @@
 ### GREEN 프로젝트 도스 테스트
 [PCEM 테스트](https://youtu.be/Kx5M5g9e66A)  
 [펜티엄3 933Mhz, 매트록스 G400, DOS 7.1](https://cafe.naver.com/olddos/73821)  
+[펜티엄3, 프리도스](https://cafe.naver.com/olddos/73928)  
 
 
 ### 레퍼런스
