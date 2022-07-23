@@ -13,7 +13,7 @@
 
 ### 서적
 [Modern MSX BASIC Game Development](https://www.amazon.com/Modern-MSX-BASIC-Game-Development-ebook/dp/B0996Y5CS2/ref=sr_1_2?dchild=1&keywords=Modern+MSX+BASIC+Game+Development&qid=1626270330&sr=8-2)  
-[Modern MSX BASIC Game Development 소스코드 다운로드](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev)  
+[Modern MSX BASIC Game Development 소스코드](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev)  
 
 ### 에디터
 [Tabmegx](http://ni.x0.com/msx/tabmegx)  
