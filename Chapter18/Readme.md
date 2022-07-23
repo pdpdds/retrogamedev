@@ -4,8 +4,7 @@
 [알레그로4 프로그래밍 튜토리얼](https://github.com/pdpdds/allero4programming)  
 [스네이크 바이트](https://github.com/sbryant31/Snake)  
 [프로그래밍 가이드](https://liballeg.org/docs.html)  
-[https://github.com/hughbien/notebook](https://github.com/hughbien/notebook)  
-[https://www.youtube.com/watch?v=J9vRVMZldy8&t=430s](https://www.youtube.com/watch?v=J9vRVMZldy8&t=430s)  
+[C++ Allegro 4 플랫포머 게임 개발 튜토리얼](https://www.youtube.com/watch?v=J9vRVMZldy8&t=430s)  
 
 ### 맵 에디터
 [Tiled](https://www.mapeditor.org)  
@@ -23,7 +22,6 @@
 [sxmlc](https://github.com/matthieu-labas/sxmlc)  
 [Fast Sqrt](https://github.com/erich666/GraphicsGems)  
 [폭스레인저 2 리메이크 툴](https://github.com/pdpdds/allegro4_dos/releases)
-
 
 ### 레퍼런스
 [Krono's Battle Zone](https://github.com/alvarogonzalezferrer/krono_battle_zone)  
