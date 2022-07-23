@@ -1,4 +1,4 @@
-### MSX 베이직
+## MSX 베이직
 [MSX Floppy Disk Manager](https://sonono.net/blog/2021/03/04/msx-floppy-disk-manager%ef%bc%88%ce%b1%e7%89%88%ef%bc%89%e3%81%ae%e5%85%ac%e9%96%8b/)  
 [Disk-Manager](http://www.lexlechz.at/en/software/DiskMgr.html)  
 [스피드 게임 플레이 영상](https://www.youtube.com/watch?v=XLkCvbMeQgM)  
@@ -11,7 +11,7 @@
 [msx-blockbreaker](https://github.com/aburi6800/msx-blockbreaker)  
 [MSX BASIC 에디터 tabmegx](http://ni.x0.com/msx/tabmegx)  
 
-### Z80 어셈블리
+## Z80 어셈블리
 [Z80 Instruction Set](https://clrhome.org/table)  
 [Z80 살펴보기](https://www.smspower.org/Development/Z80-Index)  
 
@@ -26,13 +26,13 @@
 [메탈기어](https://github.com/theNestruo/MetalGear)  
 [Sjasm](https://github.com/Konamiman/Sjasm)  
 
-#### glass 라이브러리
+### glass 라이브러리
 [자바 SDK 설치](https://www.oracle.com/kr/java/technologies/javase-downloads.html)  
 [glass 자바 라이브러리](http://www.grauw.nl/projects/glass/)  
 [transball](https://github.com/santiontanon/transballmsx)  
 [XRacing](https://github.com/santiontanon/xracing)  
 
-### 자바
+## 자바
 [Tabmegx](http://ni.x0.com/msx/tabmegx/)
 [ccZ80](http://ccz80.webcindario.com/ccz80en.html)  
 [ccZ80++](http://ccz80pp.webcindario.com/ccz80pp-en.html)   
