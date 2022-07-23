@@ -6,7 +6,8 @@
 [DOSBox Staging](https://dosbox-staging.github.io)  
 
 ### 도스 게임 프로젝트
-[DosDev](https://github.com/pdpdds/DOSDev)  
+[도스박스 개발 시스템](https://github.com/pdpdds/DOSDev)   
+[Jump_'n_Bump](https://www.classicdosgames.com/game/Jump_'n_Bump.html)  
 
 ### 개발 툴  
 [DJGPP](http://www.delorie.com/pub/djgpp/current/v2)  
