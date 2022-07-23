@@ -18,7 +18,7 @@ retro game development book helper
 * Chapter 12
 * Chapter 13
 * Chapter 14
-* Chapter 15
+* Chapter 15 - 개발 도구 살펴보기
 * Chapter 16 - 도스 게임 프로젝트
 * Chapter 17 - VGALIB
 * Chapter 18
