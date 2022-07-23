@@ -12,7 +12,8 @@
 ### 개발 툴  
 [DJGPP](http://www.delorie.com/pub/djgpp/current/v2)  
 [DJGPP-ALEGRO-DOS](https://www.mrdictionary.net/allegro/#directory)  
-[NASM](https://www.nasm.us/pub/nasm/releasebuilds/2.15.05)
+[NASM](https://www.nasm.us/pub/nasm/releasebuilds/2.15.05)  
+[Orange C/C++ 컴파일러](https://ladsoft.tripod.com/orange_c_compiler.html)  
 
 ### 레퍼런스
 [Tiny Model COM 파일을 생성하는 컴파일러 SCC](https://github.com/mras0/scc)  
