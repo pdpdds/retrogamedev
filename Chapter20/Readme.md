@@ -15,7 +15,7 @@
 
 ### 레퍼런스
 [Borland C++ 3.1 프로그래밍](https://github.com/johangardhage/dos-bcdemos)  
-[도스용 에디터 리스트](http://texteditors.org/cgi-bin/wiki.pl?MsDosEditors) 
+[도스용 에디터 리스트](http://texteditors.org/cgi-bin/wiki.pl?MsDosEditors)  
 [SDL 1.2 게임 프로젝트](https://github.com/pdpdds/sdldualsystem)
 
 ### 기타
