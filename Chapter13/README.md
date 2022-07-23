@@ -1,6 +1,6 @@
 ## MSX 베이직
 
-### 개발툴
+### 툴
 [MSX Floppy Disk Manager](https://sonono.net/blog/2021/03/04/msx-floppy-disk-manager%ef%bc%88%ce%b1%e7%89%88%ef%bc%89%e3%81%ae%e5%85%ac%e9%96%8b/)  
 [Disk-Manager](http://www.lexlechz.at/en/software/DiskMgr.html)  
 [MSXPen](https://msxpen.com)  
