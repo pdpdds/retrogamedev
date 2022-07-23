@@ -16,7 +16,7 @@
 [Modern MSX BASIC Game Development 소스코드 다운로드](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev)  
 
 ### 에디터
-[MSX BASIC 에디터 tabmegx](http://ni.x0.com/msx/tabmegx)  
+[Tabmegx](http://ni.x0.com/msx/tabmegx)  
 
 ## Z80 어셈블리
 ### Z80
@@ -45,6 +45,5 @@
 [XRacing](https://github.com/santiontanon/xracing)  
 
 ## 자바
-[Tabmegx](http://ni.x0.com/msx/tabmegx/)
 [ccZ80](http://ccz80.webcindario.com/ccz80en.html)  
 [ccZ80++](http://ccz80pp.webcindario.com/ccz80pp-en.html)   
