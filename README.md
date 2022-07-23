@@ -24,4 +24,4 @@ retro game development book helper
 * Chapter 18
 * Chapter 19
 * Chapter 20
-* Chapter 21-30
+* Chapter 21-30 - 기타 레트로 게임 프로그래밍
