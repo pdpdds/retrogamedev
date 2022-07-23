@@ -37,8 +37,3 @@
 [ccZ80](http://ccz80.webcindario.com/ccz80en.html)  
 [ccZ80++](http://ccz80pp.webcindario.com/ccz80pp-en.html)   
 [Z80 아키텍처](https://www.smspower.org/Development/Z80-Index)  
-
-### aPlib 라이브러리 
-[aPlib 홈페이지](https://ibsensoftware.com/products_aPLib.html)  
-[apultra](https://github.com/emmanuel-marty/apultra)  
-[libdivsufsort](https://github.com/y-256/libdivsufsort)  
