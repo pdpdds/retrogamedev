@@ -48,15 +48,20 @@
 ### 자바
 [Tabmegx](http://ni.x0.com/msx/tabmegx/)
 [ccZ80](http://ccz80.webcindario.com/ccz80en.html)  
-[ccZ80++](http://ccz80pp.webcindario.com/ccz80pp-en.html)  
+[ccZ80++](http://ccz80pp.webcindario.com/ccz80pp-en.html)   
+[Z80 아키텍처](https://www.smspower.org/Development/Z80-Index)  
 
-
-https://www.smspower.org/Development/Z80-Index
-
+### aPlib 라이브러리 
 [aPlib 홈페이지](https://ibsensoftware.com/products_aPLib.html)  
 [apultra](https://github.com/emmanuel-marty/apultra)  
 [libdivsufsort](https://github.com/y-256/libdivsufsort)  
 
+## MS-DOS
+[16비트 응용앱의 리버스 엔지니어링](http://blog.ssokolow.com/archives/2018/12/02/resources-for-reverse-engineering-16-bit-applications/)  
+[MS-DOS 디컴파일러](https://sourceforge.net/projects/decompiler)
+
+[AGS](https://www.adventuregamestudio.co.uk)  
+[AGS 2.3 DOS](https://dosgames.com/game/adventure-game-studio)
 
 ## 레퍼런스
 [MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book)  
