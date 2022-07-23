@@ -1,7 +1,7 @@
 ### 도스 에뮬레이터 살펴보기
 [PCEM](https://pcem-emulator.co.uk)  
 [86Box](https://github.com/86Box/86Box)  
-[도스빅스 홈페이지](https://www.dosbox.com)  
+[도스박스 홈페이지](https://www.dosbox.com)  
 [DOSBox SVN Daum](http://ykhwong.x-y.net)  
 
 ### 도스 게임 프로젝트
