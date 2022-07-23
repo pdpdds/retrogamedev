@@ -59,9 +59,8 @@
 ## MS-DOS
 [16비트 응용앱의 리버스 엔지니어링](http://blog.ssokolow.com/archives/2018/12/02/resources-for-reverse-engineering-16-bit-applications/)  
 [MS-DOS 디컴파일러](https://sourceforge.net/projects/decompiler)
-
-[AGS](https://www.adventuregamestudio.co.uk)  
-[AGS 2.3 DOS](https://dosgames.com/game/adventure-game-studio)
+[Adventure Game Studio](https://www.adventuregamestudio.co.uk)  
+[Adventure Game Studio 2.3 DOS](https://dosgames.com/game/adventure-game-studio)
 
 ## 레퍼런스
 [MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book)  
