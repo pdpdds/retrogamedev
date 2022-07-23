@@ -7,7 +7,7 @@
 ### 도스 게임 프로젝트
 [DosDev](https://github.com/pdpdds/DOSDev)  
 
-### 툴  
+### 개발 툴  
 [DJGPP](http://www.delorie.com/pub/djgpp/current/v2)  
 [DJGPP-ALEGRO-DOS](https://www.mrdictionary.net/allegro/#directory)  
 [NASM](https://www.nasm.us/pub/nasm/releasebuilds/2.15.05)
