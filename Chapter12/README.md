@@ -1,7 +1,7 @@
 ## Chapter 12 MSX 개발 레퍼런스
 
 [크로스 컴파일러 소개](https://www.nabeta.tk/msx/crosscc.html)  
-[GNUWIN32 Make](https://osdn.net/projects/sfnet_ezwinports/downloads/make-4.3-without-guile-w32-bin.zip/)  
+[GNUWin32 Make](https://osdn.net/projects/sfnet_ezwinports/downloads/make-4.3-without-guile-w32-bin.zip/)  
 
 ### SDCC
 [MSX 32K Startup](https://github.com/mvac7/SDCC_startup_MSX32kROM4000)  
