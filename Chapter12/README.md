@@ -28,6 +28,7 @@
 [FUSION-C 1.2](https://github.com/ericb59/Fusion-C-v1.2)  
 [MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
 [Atlanta](https://github.com/sfranck72/Atalanta)  
+[Brick Breaker](https://github.com/ericb59/Brick-Breaker-Santa-Demo)  
 
 ### Visual Studio
 [MSX-Templates-for-VisualStudio](https://github.com/DamnedAngel/MSX-Templates-for-VisualStudio)  
