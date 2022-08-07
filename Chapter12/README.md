@@ -26,7 +26,7 @@
 ### Fusion-C
 [FUSION-C: MSX C Library complete journey](https://www.amazon.com/FUSION-C-MSX-Library-complete-journey/dp/1730828612)  
 [FUSION-C 1.2](https://github.com/ericb59/Fusion-C-v1.2)  
-[MSX-basic-c-scroll-horizontal](https://github.com/kikemadrigal/MSX-basic-c-scroll-horizontal-MSX2-test1-space2)  
+[Captain kik](https://github.com/kikemadrigal/MSX1-MSX2-assambler-basic-fusion-c-alien)  
 [Atlanta](https://github.com/sfranck72/Atalanta)  
 [Brick Breaker](https://github.com/ericb59/Brick-Breaker-Santa-Demo)  
 
