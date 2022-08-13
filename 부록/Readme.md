@@ -9,7 +9,7 @@
 
 ### MSX 게임 플레이 해보기
 [https://www.file-hunter.com](https://www.file-hunter.com)  
-[http://www.jamsx.com](http://www.jamsx.com)
+[http://www.jamsx.com](http://www.jamsx.com)  
 [왕가의 계곡 1 클론](
 https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings.rom)
 
