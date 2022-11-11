@@ -24,5 +24,5 @@ retro game development book helper
 * [Chapter 18 - 알레그로4](https://github.com/pdpdds/retrogamedev/tree/main/Chapter18)
 * [Chapter 19 - 디버깅 실전](https://github.com/pdpdds/retrogamedev/tree/main/Chapter19)
 * [Chapter 20 - SDL + HX 도스 익스텐더](https://github.com/pdpdds/retrogamedev/tree/main/Chapter20)
-* [Chapter 21-30 - 기타 레트로 게임 프로그래밍](https://github.com/pdpdds/retrogamedev/tree/main/Chapter21)
+* [Chapter 21-30 - 기타 레트로 게임 프로그래밍](https://github.com/pdpdds/retrogamedev/tree/main/Chapter21-30)
 * [Appendix]()
