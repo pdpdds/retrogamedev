@@ -4,7 +4,7 @@ retro game development book helper
 [Shared Folder](http://naver.me/G3KwrLSz)  
 
 ## Reference Page 
-* Chapter 01 - MSX 플랫폼과 친해지기
+* (Chapter 01 - MSX 플랫폼과 친해지기)(https://github.com/pdpdds/retrogamedev/tree/main/Chapter01)  
 * Chapter 02 - 개발 환경 구축
 * Chapter 03 - 기초 다지기
 * Chapter 04 - 샘플 게임 프로젝트
