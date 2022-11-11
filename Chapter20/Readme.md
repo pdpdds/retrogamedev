@@ -6,11 +6,10 @@
 
 ### GREEN 프로젝트 도스 테스트
 [PCEM 테스트](https://youtu.be/Kx5M5g9e66A)  
-[펜티엄3 933Mhz, 매트록스 G400, DOS 7.1](https://cafe.naver.com/olddos/73821)  
 [펜티엄3, 프리도스](https://cafe.naver.com/olddos/73928)  
 
 ### SDL
 [HX DOS SDL Example](https://github.com/pdpdds/hxdos-sdl-example)  
-[SDL 1.2 게임 프로젝트](https://github.com/pdpdds/sdldualsystem)
+[SDL 1.2 게임 프로젝트](https://github.com/pdpdds/sdldualsystem)  
 [팩맨#1](https://sourceforge.net/projects/pacmanincwithsd)  
 [팩맨#2](https://github.com/Ahmed310/PacMan)  
