@@ -1,8 +1,13 @@
 ## 1.1 에뮬레이터
+### 에뮬레이터 리스트
 * [BlueMSX](http://bluemsx.msxblue.com/download.html)
 * [WebMSX](https://webmsx.org/)
 * [openMSX](https://openmsx.org/)
 * [fMSX](https://fms.komkon.org/fMSX/)
+
+### MSX 게임 플레이 해보기
+* [파일헌터](https://www.file-hunter.com/MSX)
+* [jamsx](http://www.jamsx.com)
 
 ## 슬롯 시스템
 
