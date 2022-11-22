@@ -1,9 +1,16 @@
-## Retro Game Development
-retro game development book helper
+## 레트로 게임 프로그래밍 교과서
+레트로 게임 프로그래밍 교과서를 학습하시는데 도움이 될 수 있도록 마련한 참조 페이지입니다.
 
-[Shared Folder](http://naver.me/G3KwrLSz)  
+책에서 언급한 참조페이지는 각 챕터의 참조 페이지를 확인하시면 내용을 확인하실 수 있습니다.
 
-## Reference Page 
+또한 공유 폴더에는 책에서 언급한 각종 툴인 데모 프로젝트가 존재합니다. 
+
+인터넷의 특성상 기존에 존재했던 파일 다운로드 링크는 사라질 가능성이 있으니 그런 경우에는
+공유 폴더에서 필요 파일을 찾아 보시면 되겠습니다.
+
+[공유 폴더](http://naver.me/G3KwrLSz)  
+
+## 참조 페이지 
 * [Chapter 01 - MSX 플랫폼과 친해지기](https://github.com/pdpdds/retrogamedev/tree/main/Chapter01)  
 * [Chapter 02 - 개발 환경 구축](https://github.com/pdpdds/retrogamedev/tree/main/Chapter02)
 * [Chapter 03 - 기초 다지기](https://github.com/pdpdds/retrogamedev/tree/main/Chapter03)
