@@ -7,7 +7,7 @@
 
 ### MSX 게임 플레이 해보기
 * [파일헌터](https://www.file-hunter.com/MSX)
-* [jamsx](http://www.jamsx.com)
+* [JAMSX](http://www.jamsx.com)
 
 ## 슬롯 시스템
 
