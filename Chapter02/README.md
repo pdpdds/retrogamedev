@@ -20,6 +20,3 @@ WSL Manager의 경우 업데이트가 중지된 상태이며 특정 머신에서
 
 툴을 실행하고 하면 WSL에 설치된 리눅스 배포판들을 확인할 수 있다.  
 특정 리눅스 배포판을 실행하는 것이 가능하다.
-
-* [MSX 스크린 모드](https://www.msx.org/wiki/SCREEN)  
-* [Pyramid Quest](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/pyramid.rom)
