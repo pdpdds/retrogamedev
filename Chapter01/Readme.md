@@ -1,4 +1,4 @@
-## 에뮬레이터
+## 1.1 에뮬레이터
 * [BlueMSX](http://bluemsx.msxblue.com/download.html)
 * [WebMSX](https://webmsx.org/)
 * [openMSX](https://openmsx.org/)
