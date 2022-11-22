@@ -12,13 +12,14 @@ WSL2 자동 설치 내용을 참고해서 WSL2를 설치한다.
 
 ## 2.4 빌드 시스템 구축
 WSL Manager의 경우 업데이트가 중지된 상태이며 특정 머신에서 정상 실행되지 않는 경우가 있다.   
-이 경우에는 수동으로 배포판을 설치하고 다음 툴을 활용한다.
+이 경우에는 책에서 설명한 것처럼 수동으로 배포판을 설치한다.   
+그런다음 다음 툴을 다운받아 활용하자.
 링크에 접속한 다음 릴리즈 탭에서 최신 버전을 다운받는다.
 
 [WSL Distro Manager](https://github.com/bostrot/wsl2-distro-manager)
 
-이 툴을 활용하면 특정 리눅스 배포판을 실행하는 것이 가능하다.
-
+툴을 실행하고 하면 WSL에 설치된 리눅스 배포판들을 확인할 수 있다.  
+특정 리눅스 배포판을 실행하는 것이 가능하다.
 
 * [MSX 스크린 모드](https://www.msx.org/wiki/SCREEN)  
 * [Pyramid Quest](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/pyramid.rom)
