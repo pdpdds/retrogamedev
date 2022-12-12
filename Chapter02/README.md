@@ -18,5 +18,6 @@ WSL Manager의 경우 업데이트가 중지된 상태이며 특정 머신에서
 
 [WSL Distro Manager](https://github.com/bostrot/wsl2-distro-manager)
 
-툴을 실행하고 하면 WSL에 설치된 리눅스 배포판들을 확인할 수 있다.  
-특정 리눅스 배포판을 실행하는 것이 가능하다.
+툴을 실행하면 WSL에 설치된 리눅스 배포판들을 확인할 수 있다.  
+WSL Manager와 마찬가지로 특정 배포판의 설치가 가능하며  
+특정 리눅스 배포판을 바로 실행할 수 있다.
