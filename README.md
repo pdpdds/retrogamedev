@@ -52,6 +52,9 @@
 
 [![MSX 폭스레인저](https://img.youtube.com/vi/63j-ss1-IlM/0.jpg)](https://youtu.be/63j-ss1-IlM) 
 
+[![왕가의 계곡](https://img.youtube.com/vi/yWfRj2l0rsU/0.jpg)](https://youtu.be/yWfRj2l0rsU) 
+
+### MS-DOS
  
 
 
