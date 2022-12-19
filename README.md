@@ -13,7 +13,7 @@
 * [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K202830147&start=pnaver_02)   
 
 ## 공유 폴더
-[링크 2](http://naver.me/G3KwrLSz)  
+[공유 폴더 2](http://naver.me/G3KwrLSz)  
 
 ## 참조 페이지 
 * Chapter 01 - [MSX 플랫폼과 친해지기](https://github.com/pdpdds/retrogamedev/tree/main/Chapter01)  
