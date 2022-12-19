@@ -8,8 +8,12 @@
 인터넷의 특성상 기존에 존재했던 파일 다운로드 링크는 사라질 가능성이 있으니 그런 경우에는   
 공유 폴더에서 필요 파일을 찾아 보시면 되겠습니다.   
 
+* [예스24](http://www.yes24.com/Product/Goods/116258578)   
+* [교보문고](https://product.kyobobook.co.kr/detail/S000200473470)   
+* [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K202830147&start=pnaver_02)   
 
-[공유 폴더](http://naver.me/G3KwrLSz)  
+## 공유 폴더
+[링크 2](http://naver.me/G3KwrLSz)  
 
 ## 참조 페이지 
 * Chapter 01 - [MSX 플랫폼과 친해지기](https://github.com/pdpdds/retrogamedev/tree/main/Chapter01)  
