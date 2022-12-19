@@ -39,7 +39,7 @@
 * Chapter 21-30 - [기타 레트로 게임 프로그래밍](https://github.com/pdpdds/retrogamedev/tree/main/Chapter21-30)
 * [Appendix](https://github.com/pdpdds/retrogamedev/tree/main/%EB%B6%80%EB%A1%9D)
 
-## 책을 독파하면 아래 프로토타입을 스스로 만들 수 있습니다.
+## 본서를 발판으로..
 
 ### MSX
 [![걸케이브](https://img.youtube.com/vi/Ikk61VmXJPQ/0.jpg)](https://youtu.be/Ikk61VmXJPQ)
