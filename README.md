@@ -42,7 +42,7 @@
 ## 책을 독파하면 가능한 프로젝트
 ### MSX
 
-
+[![마성전설](https://img.youtube.com/vi/NwzJ2HcUIrM/0.jpg)](https://youtu.be/NwzJ2HcUIrM) 
 
 
 
