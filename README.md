@@ -59,7 +59,8 @@
 [![왕가의 계곡 도스박스 테스트](https://img.youtube.com/vi/NBUnVkGu_rc/0.jpg)](https://youtu.be/NBUnVkGu_rc) 
 
 [![왕가의 계곡 도스 실기 테스트](https://img.youtube.com/vi/UdQLUEPdEsQ/0.jpg)](https://youtu.be/UdQLUEPdEsQ) 
- 
+
+[![왕가의 계곡 도스 실기 테스트2](https://img.youtube.com/vi/KrV-UHwCC64/0.jpg)](https://youtu.be/KrV-UHwCC64) 
 
 
 
