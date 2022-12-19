@@ -38,3 +38,11 @@
 * Chapter 20 - [SDL + HX 도스 익스텐더](https://github.com/pdpdds/retrogamedev/tree/main/Chapter20)
 * Chapter 21-30 - [기타 레트로 게임 프로그래밍](https://github.com/pdpdds/retrogamedev/tree/main/Chapter21-30)
 * [Appendix](https://github.com/pdpdds/retrogamedev/tree/main/%EB%B6%80%EB%A1%9D)
+
+## 책을 독파하면 가능한 프로젝트
+### MSX
+
+
+
+
+
