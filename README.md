@@ -39,10 +39,24 @@
 * Chapter 21-30 - [기타 레트로 게임 프로그래밍](https://github.com/pdpdds/retrogamedev/tree/main/Chapter21-30)
 * [Appendix](https://github.com/pdpdds/retrogamedev/tree/main/%EB%B6%80%EB%A1%9D)
 
-## 책을 독파하면 가능한 프로젝트
+## 책을 독파하면 아래 프로토타입을 스스로 만들 수 있습니다.
+
 ### MSX
+[![걸케이브](https://img.youtube.com/vi/Ikk61VmXJPQ/0.jpg)](https://youtu.be/Ikk61VmXJPQ)
 
 [![마성전설](https://img.youtube.com/vi/NwzJ2HcUIrM/0.jpg)](https://youtu.be/NwzJ2HcUIrM) 
+
+[![시티 컨넥션](https://img.youtube.com/vi/8xCz2cvs3_4/0.jpg)](https://youtu.be/8xCz2cvs3_4) 
+
+[![구니스](https://img.youtube.com/vi/yTiO6O2gpkg/0.jpg)](https://youtu.be/yTiO6O2gpkg) 
+
+[![MSX 폭스레인저](https://img.youtube.com/vi/63j-ss1-IlM/0.jpg)](https://youtu.be/63j-ss1-IlM) 
+
+ 
+
+
+
+
 
 
 
