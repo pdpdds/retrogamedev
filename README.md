@@ -129,6 +129,22 @@
 
 ## MSX
 
+### 왕가의 계곡 1(킹스밸리)
+ubox MSX 라이브러리를 최대한 활용해서 오리지널 왕가의 계곡 1편을
+재현한 프로젝트입니다.
+이 프로젝트의 경우 아예 코딩을 하지 않고 맵만 제작하면
+자신만의 롬 파일을 생성할 수 있도록 프로젝트가 구축된 상태입니다.
+
+[![왕가의 계곡](https://img.youtube.com/vi/yWfRj2l0rsU/0.jpg)](https://youtu.be/yWfRj2l0rsU) 
+
+이 프로젝트를 통해 완성된 롬 파일을 
+WebMSX로 직접 플레이해 볼 수 있습니다.
+
+게임 플레이중 진행이 불가할시에는 P키를 누르시면 됩니다.
+
+[버전1](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings_ver2.rom)  
+[버전2](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings.rom)
+
 ### 걸케이브
 패럴랙스 스크롤과 횡스크롤 슈팅 게임을 제작하는데 기초가 될 수 있는
 MSX 명작게임 걸케이브의 프로토타입 영상입니다.
@@ -169,22 +185,6 @@ MSX 폭스레인저는 MS-DOS용 폭스레인저 1편을 MSX1용으로 다운그
 개발을 진행하고 있습니다.
 
 [![MSX 폭스레인저](https://img.youtube.com/vi/63j-ss1-IlM/0.jpg)](https://youtu.be/63j-ss1-IlM) 
-
-### 왕가의 계곡 1(킹스밸리)
-ubox MSX 라이브러리를 최대한 활용해서 오리지널 왕가의 계곡 1편을
-재현한 프로젝트입니다.
-이 프로젝트의 경우 아예 코딩을 하지 않고 맵만 제작하면
-자신만의 롬 파일을 생성할 수 있도록 프로젝트가 구축된 상태입니다.
-
-[![왕가의 계곡](https://img.youtube.com/vi/yWfRj2l0rsU/0.jpg)](https://youtu.be/yWfRj2l0rsU) 
-
-이 프로젝트를 통해 완성된 롬 파일을 
-WebMSX로 직접 플레이해 볼 수 있습니다.
-
-게임 플레이중 진행이 불가할시에는 P키를 누르시면 됩니다.
-
-[버전1](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings_ver2.rom)  
-[버전2](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings.rom)
 
 ### 디버깅
 본서에서는 MSX의 경우 C 소스코드 레벨에서 동적 디버깅이 가능하지
