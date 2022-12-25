@@ -120,16 +120,16 @@
 앞에서 언급했듯이 본서의 집필 시점과 출간 시점에 간극이 있고
 별도로 레트로 게임 프로그래밍을 연구해 왔기 때문에
 현시점에서는 보다 많은 노하우가 쌓인 상태입니다.
-여기서 소개하는 내용은 아직 공개가 되지 않았지만
+지금부터 소개하는 내용은 아직 공개가 되지 않았지만
 완성도가 높아지면 공유할 예정에 있습니다.
 
 어떻게 보면 독자분께서 본서를 마스터하시면 스스로 구현 가능한
 내용이기도 하니 참고하시면 되겠습니다.
 이미지의 경우, 클릭하시면 유튜브 동영상으로 시청하실 수 있습니다.
 
-### MSX
+## MSX
 
-#### 걸케이브
+### 걸케이브
 패럴랙스 스크롤과 횡스크롤 슈팅 게임을 제작하는데 기초가 될 수 있는
 MSX 명작게임 걸케이브의 프로토타입 영상입니다.
 미사일 이동 좌표  경우 실수형을 사용하지 않고 정수 좌표를 사용하는데
@@ -138,7 +138,7 @@ MSX 명작게임 걸케이브의 프로토타입 영상입니다.
 
 [![걸케이브](https://img.youtube.com/vi/Ikk61VmXJPQ/0.jpg)](https://youtu.be/Ikk61VmXJPQ)
 
-#### 마성전설
+### 마성전설
 MSX1의 픽셀 기반 배경 스크롤이 어렵기 때문에 배경은 타일 기반으로
 스크롤링합니다. 대표적인 타일기반 종스크롤링 게임으로는
 마서전설을 들 수 있습니다.
@@ -150,19 +150,19 @@ MSX1의 픽셀 기반 배경 스크롤이 어렵기 때문에 배경은 타일 �
 
 [![마성전설](https://img.youtube.com/vi/NwzJ2HcUIrM/0.jpg)](https://youtu.be/NwzJ2HcUIrM) 
 
-#### 시티 컨넥션
+### 시티 컨넥션
 시티 컨넥션은 도로의 타일을 전부 지나가면 스테이지를 클리어할 수 있습니다. 간단한 플랫폼 게임을 제작하는데 있어 좋은 프로토타입이 될 것입니다.
 
 [![시티 컨넥션](https://img.youtube.com/vi/8xCz2cvs3_4/0.jpg)](https://youtu.be/8xCz2cvs3_4) 
 
-#### 구니스
+### 구니스
 코나미에서 출시했던 고전 명작 게임 구니스입니다.
 다른 플랫폼으로도 출시된 게임이지만 
 개인적으로는 MSX용 구니스가 더 정감이 갑니다. 
 
 [![구니스](https://img.youtube.com/vi/yTiO6O2gpkg/0.jpg)](https://youtu.be/yTiO6O2gpkg) 
 
-#### MSX 폭스레인저
+### MSX 폭스레인저
 MSX 폭스레인저는 MS-DOS용 폭스레인저 1편을 MSX1용으로 다운그레이드
 시키려는 프로젝트입니다. 아직 게임 리소스를 제대로 확보하지 못해서
 초기 개발 상태에 머물러 있습니다. 걸케이브의 게임 리소스를 차용해서
@@ -170,7 +170,7 @@ MSX 폭스레인저는 MS-DOS용 폭스레인저 1편을 MSX1용으로 다운그
 
 [![MSX 폭스레인저](https://img.youtube.com/vi/63j-ss1-IlM/0.jpg)](https://youtu.be/63j-ss1-IlM) 
 
-#### 왕가의 계곡 1(킹스밸리)
+### 왕가의 계곡 1(킹스밸리)
 ubox MSX 라이브러리를 최대한 활용해서 오리지널 왕가의 계곡 1편을
 재현한 프로젝트입니다.
 이 프로젝트의 경우 아예 코딩을 하지 않고 맵만 제작하면
@@ -186,7 +186,7 @@ WebMSX로 직접 플레이해 볼 수 있습니다.
 [버전1](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings_ver2.rom)  
 [버전2](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings.rom)
 
-#### 디버깅
+### 디버깅
 본서에서는 MSX의 경우 C 소스코드 레벨에서 동적 디버깅이 가능하지
 않았습니다. 그래서 차선책으로 듀얼 시스템 프로그래밍을 통한
 간접적인 디버깅 방법을 제시했습니다.
@@ -198,7 +198,7 @@ MSX 커뮤니티는 매우 활성화되어 있기 때문에 차후 완벽하게
 #### MSX 동적 디버깅 1
 [![MSX 동적 디버깅 영상](https://img.youtube.com/vi/rzzCT3oKpg0/0.jpg)](https://youtu.be/rzzCT3oKpg0) 
 
-### MS-DOS
+## MS-DOS
 
 [![왕가의 계곡 도스박스 테스트](https://img.youtube.com/vi/NBUnVkGu_rc/0.jpg)](https://youtu.be/NBUnVkGu_rc) 
 
@@ -208,7 +208,7 @@ MSX 커뮤니티는 매우 활성화되어 있기 때문에 차후 완벽하게
 
 [![IMS 플레이어 안드로이드](https://img.youtube.com/vi/Bv6vTX1h_kE/0.jpg)](https://www.youtube.com/watch?v=Bv6vTX1h_kE) 
 
-#### 디버깅
+### 디버깅
 
 #### 도스박스-X 듀얼스크린을 활용한 디버깅
 VGA 모니터와 허큘러스 모니터를 활용하여 도스시스템에서 프로그램을 동적 디버깅을 하는 영상을 보여줍니다.
