@@ -180,7 +180,7 @@ ubox MSX 라이브러리를 최대한 활용해서 오리지널 왕가의 계곡
 WebMSX로 직접 플레이해 볼 수 있습니다.
 
 [버전1](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings_ver2.rom)  
-[버전2](​https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings.rom)
+[버전2](​https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings.rom)  
 
 ### MS-DOS
 
