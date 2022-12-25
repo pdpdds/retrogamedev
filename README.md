@@ -210,9 +210,16 @@ MSX 커뮤니티는 매우 활성화되어 있기 때문에 차후 완벽하게
 
 #### 디버깅
 
+#### 도스박스-X 듀얼스크린을 활용한 디버깅
+VGA 모니터와 허큘러스 모니터를 활용하여 도스시스템에서 프로그램을 동적 디버깅을 하는 영상을 보여줍니다.
 
-[![스트리트 파이터 2 디버깅](https://img.youtube.com/vi/eIHenDXO5Vk/0.jpg)](https://www.youtube.com/watch?v=eIHenDXO5Vk)
+[![도스 프로그램 디버깅](https://img.youtube.com/vi/eIHenDXO5Vk/0.jpg)](https://www.youtube.com/watch?v=eIHenDXO5Vk)
 
+#### 스트리트 파이터 2 정영덕님 버전
+도스 시절을 거쳤다면 누구나 들었을만한 게임인 스트리트 파이터 2 정영덕님 버전 디버깅 영상입니다.
+류가 장풍을 쏠시 브레이크 포인트를 걸어 내부 상태를 조사하는 영상입니다.
+
+[![스트리트 파이터 2 디버깅 영상](https://img.youtube.com/vi/fBTebg7rCa8/0.jpg)](https://www.youtube.com/watch?v=fBTebg7rCa8)
 
 
 
