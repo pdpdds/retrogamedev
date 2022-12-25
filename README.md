@@ -179,8 +179,23 @@ ubox MSX 라이브러리를 최대한 활용해서 오리지널 왕가의 계곡
 이 프로젝트를 통해 완성된 롬 파일을 
 WebMSX로 직접 플레이해 볼 수 있습니다.
 
+게임 플레이중 진행이 불가할시에는 P키를 누르시면 됩니다.
+
 [버전1](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings_ver2.rom)  
 [버전2](https://webmsx.org/?ROM=https://github.com/pdpdds/ubox_example/releases/download/v1.0/kings.rom)
+
+#### 디버깅
+본서에서는 MSX의 경우 C 소스코드 레벨에서 동적 디버깅이 가능하지
+않았습니다. 그래서 차선책으로 듀얼 시스템 프로그래밍을 통한
+간접적인 디버깅 방법을 제시했습니다.
+현재는 MSX에서도 동적 디버깅이 가능합니다. 아래 영상은
+동적 디버깅 영상을 보여줍니다.
+MSX 커뮤니티는 매우 활성화되어 있기 때문에 차후 완벽하게
+동적 디버깅이 가능한 시스템이 구축되길 기대하고 있습니다.
+
+[MSX 동적 디버깅 영상](https://youtu.be/rzzCT3oKpg0)  
+
+
 ### MS-DOS
 
 [![왕가의 계곡 도스박스 테스트](https://img.youtube.com/vi/NBUnVkGu_rc/0.jpg)](https://youtu.be/NBUnVkGu_rc) 
