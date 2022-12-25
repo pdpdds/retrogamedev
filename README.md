@@ -208,6 +208,12 @@ MSX 커뮤니티는 매우 활성화되어 있기 때문에 차후 완벽하게
 
 [![IMS 플레이어 안드로이드](https://img.youtube.com/vi/Bv6vTX1h_kE/0.jpg)](https://www.youtube.com/watch?v=Bv6vTX1h_kE) 
 
+#### 디버깅
+
+
+[![스트리트 파이터 2 디버깅](https://img.youtube.com/vi/eIHenDXO5Vk/0.jpg)](https://www.youtube.com/watch?v=eIHenDXO5Vk)
+
+
 
 
 
