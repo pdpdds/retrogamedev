@@ -195,8 +195,8 @@ WebMSX로 직접 플레이해 볼 수 있습니다.
 MSX 커뮤니티는 매우 활성화되어 있기 때문에 차후 완벽하게
 동적 디버깅이 가능한 시스템이 구축되길 기대하고 있습니다.
 
-[MSX 동적 디버깅 영상](https://youtu.be/rzzCT3oKpg0)  
-
+#### MSX 동적 디버깅 1
+[![MSX 동적 디버깅 영상](https://img.youtube.com/vi/rzzCT3oKpg0)](https://youtu.be/rzzCT3oKpg0) 
 
 ### MS-DOS
 
