@@ -293,5 +293,5 @@ MS-DOS 시절에 유명했던 음악 포맷인 IMS 파일을 안드로이드에�
 WIN32 버전으로 재구현된 이 게임을 안드로이드용으로 포팅했습니다.   
 소스코드는 SDL2로 작성되었기 때문에 다른 플랫폼으로의 마이그레이션이 용이합니다.
 
-[오리지널 소스코드](https://domino-chain.gitlab.io/#source)
+[오리지널 소스코드](https://domino-chain.gitlab.io/#source)  
 [PushOver4Droid 다운로드](https://play.google.com/store/apps/details?id=com.juhang.app)   
