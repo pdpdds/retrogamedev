@@ -13,6 +13,7 @@
 * [예스24](http://www.yes24.com/Product/Goods/116258578)   
 * [교보문고](https://product.kyobobook.co.kr/detail/S000200473470)   
 * [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K202830147&start=pnaver_02)   
+* [저자이력](https://github.com/pdpdds)
 
 ## 시작하기에 앞서
 본서는 프로그래밍 초심자께서도 레트로 게임을 쉽게 제작가능하도록 
