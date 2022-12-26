@@ -295,3 +295,6 @@ WIN32 버전으로 재구현된 이 게임을 안드로이드용으로 포팅했
 
 [오리지널 소스코드](https://domino-chain.gitlab.io/#source)  
 [PushOver4Droid 다운로드](https://play.google.com/store/apps/details?id=com.juhang.app)   
+
+## 링크
+[도스박물관 카페](https://cafe.naver.com/olddos) 
