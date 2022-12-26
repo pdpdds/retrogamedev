@@ -1,4 +1,3 @@
-### 듀얼 시스템
-[VGALIB](https://github.com/drwonky/VGALIB)  
-[SDL BGI](https://github.com/pdpdds/sdl_bgi)  
+# 17 VGALIB
+* [VGALIB 다운로드](https://github.com/drwonky/VGALIB)  
 

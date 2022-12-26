@@ -274,6 +274,15 @@ VGA 모니터와 허큘러스 모니터를 활용하여
 
 [![스트리트 파이터 2 디버깅 영상](https://img.youtube.com/vi/fBTebg7rCa8/0.jpg)](https://www.youtube.com/watch?v=fBTebg7rCa8)
 
+### SDL BGI 듀얼 시스템 프로그래밍
+도스 프로그래밍을 대표하는 프로그래밍 인터페이스로
+BGI(Borand Grahphics Interface)가 있습니다.  
+아래 프로젝트는 이 BGI API를 활용하여 
+WIN32 / MS-DOS에서 동작하는 프로그램 작성 방법을 보여줍니다.
+ 
+[SDL BGI](https://github.com/pdpdds/sdl_bgi)  
+
+
 ## 번외편
 여기서 언급하는 내용은 본서와 직접적인 관련이 없습니다.  
 다만 본서를 학습하고나서는 레트로 플랫폼에서 활용했던 유용한 라이브러리를 현세대 플랫폼에서
