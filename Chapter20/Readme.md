@@ -18,8 +18,9 @@
 
 ### 펜티엄3, 프리도스 테스트
 도스박물관 카페 회원이신 윤슈님께서   
-GREEN 프로젝트의 도스 실기 테스트를 진행해 주셨습니다.
+GREEN 프로젝트의 도스 실기 테스트를 진행해 주셨습니다.   
 펜티엄3, 프리도스 환경에서 진행했습니다.
+
 [![도스 실기 테스트](https://img.youtube.com/vi/EeggC8leCfI/0.jpg)](https://www.youtube.com/watch?v=EeggC8leCfI)
 
 ## 레퍼런스
