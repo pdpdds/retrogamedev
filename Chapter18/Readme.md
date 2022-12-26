@@ -47,3 +47,7 @@
 * [LEGOIDS](https://github.com/HunterZ/legoids)  
 * [Allegro GUI Un-uglfication Project](http://agup.sourceforge.net/)  
 
+### 알레그로 기반 어드벤처 게임 개발 툴
+[Adventure Game Studio](https://www.adventuregamestudio.co.uk)  
+[Adventure Game Studio 2.3 DOS](https://dosgames.com/game/adventure-game-studio)
+

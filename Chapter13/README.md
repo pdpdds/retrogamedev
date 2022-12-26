@@ -17,7 +17,6 @@
 * [Modern MSX BASIC Game Development](https://www.amazon.com/Modern-MSX-BASIC-Game-Development-ebook/dp/B0996Y5CS2/ref=sr_1_2?dchild=1&keywords=Modern+MSX+BASIC+Game+Development&qid=1626270330&sr=8-2)  
 * [Modern MSX BASIC Game Development 소스코드](https://github.com/plattysoft/Modern-MSX-BASIC-Game-Dev)  
 
- 
 ## 13.2 Z80 어셈블리
 ### Z80 개관
 * [Z80 명령어 세트](https://clrhome.org/table)  
@@ -47,3 +46,23 @@
 ## 13.3 자바
 * [ccZ80](http://ccz80.webcindario.com/ccz80en.html)  
 * [ccZ80++](http://ccz80pp.webcindario.com/ccz80pp-en.html)   
+
+## 레퍼런스
+* [MSX Resource Center](https://www.msx.org/)  
+* [Awesome MSX](https://github.com/fr3nd/awesome-msx)
+* [MSX Red Book](https://github.com/gseidler/The-MSX-Red-Book)  
+* [MSX2-Technical-Handbook](https://konamiman.github.io/MSX2-Technical-Handbook)  
+* [MSX 인사이드 자습서](http://www.z80st.es/cursos/msx-inside)  
+* [MARMSX](http://marmsx.msxall.com/english.php) 
+* [Developing for MSX](https://www.msx.org/wiki/Main_Page#Developing_for_MSX)  
+* [RETRO GAME COCODERS](https://retrogamecoders.com/getting-started-with-c-cc65/)  
+* [파스칼로 MSX 프로그램 개발](https://hansotten.file-hunter.com/software/pascal-and-msx)  
+* [C와 Z80 어셈블리 통신](https://gist.github.com/Konamiman/af5645b9998c802753023cf1be8a2970)  
+* [비디오 메모리 맵](https://www.msx.org/wiki/VRAM_Maps)  
+* [MSX 메모리](https://www.msx.org/wiki/The_Memory)   
+* [Pyramid Warp (1983) 리버싱 버전](https://github.com/theNestruo/msx-pyramidwarpex)   
+* [TinyMSX 에뮬레이터](https://github.com/suzukiplan/tinymsx)  
+
+### 라이브러리
+* [Cross-Lib](https://github.com/Fabrizio-Caruso/CROSS-LIB) 
+* [MSXLib](https://github.com/theNestruo/msx-msxlib)
