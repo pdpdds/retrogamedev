@@ -346,7 +346,6 @@ MSX, MS-DOS 플랫폼이 전성기였던 시절에 저자는
 
 #### 마성전설 1 플레이 영상
 [![마성전설1](https://img.youtube.com/vi/M0GfrtU1kxw/0.jpg)](https://www.youtube.com/watch?v=M0GfrtU1kxw)
-https://www.youtube.com/watch?v=M0GfrtU1kxw&t=2162s
 
 #### Xain'd Sleena(제인드 슬리나) 
 [![제인드 슬리나](https://img.youtube.com/vi/0_oNZqtEbqU/0.jpg)](https://www.youtube.com/watch?v=0_oNZqtEbqU)
