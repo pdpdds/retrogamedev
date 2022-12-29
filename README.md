@@ -325,3 +325,28 @@ WIN32 버전으로 재구현된 이 게임을 안드로이드용으로 포팅했
 
 [오리지널 소스코드](https://domino-chain.gitlab.io/#source)  
 [PushOver4Droid 다운로드](https://play.google.com/store/apps/details?id=com.juhang.app)   
+
+### 저자 레트로 게임 플레이 영상
+MSX, MS-DOS 플랫폼이 전성기였던 시절에 저자는  
+프로그래밍은 문외한이고 오락실만 찾던 겜돌이였습니다.  
+여러가지 이유가 있겠지만 어린시절을 시골에서   보내다보니 게임을 하는 것 만큼 게임을 만드는 
+것도 재밌다는 것을 상기시켜 줄 수 있는 환경을  
+갖추지 못했기 때문이라고 생각하고 있습니다.  
+하지만 게임을 열심히(?) 했고 그당시에는 프로그래밍을  
+하지 않았기 때문에 오히려 지금처럼 어떠한 선입견을 갖지 않고  
+현대적인 프로그래밍 관점에서 옛 플랫폼을 조망할 수 있는 계기를 마련할 수 있었다고 생각합니다.
+
+이상하게 들릴수도 있겠지만 어릴적에 게임을 즐겁게  
+플레이하셨다면 게임도 분명 즐겁게 개발하실 수 있을 겁니다.  
+
+아래 영상은 저자가 좋아했던 게임의 플레이 화면입니다.    
+어릴적에 이런 게임들을 플레이한 것이 계기가 되어   
+제가 본서를 출간하고자 마음을 먹지 않았나 생각합니다.   
+재밌게 봐주시면 감사하겠습니다.   
+
+#### 마성전설 1 플레이 영상
+[![마성전설1](https://img.youtube.com/vi/M0GfrtU1kxw/0.jpg)](https://www.youtube.com/watch?v=M0GfrtU1kxw)
+https://www.youtube.com/watch?v=M0GfrtU1kxw&t=2162s
+
+#### Xain'd Sleena(제인드 슬리나) 
+[![제인드 슬리나](https://img.youtube.com/vi/0_oNZqtEbqU/0.jpg)](https://www.youtube.com/watch?v=0_oNZqtEbqU)
