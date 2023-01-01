@@ -55,7 +55,8 @@
 저와 같이 레트로 게임 개발 문화 확산에 동참해서
 다양한 레트로 게임을 개발할 수 있기를 바래봅니다.
 
-[디스코드](https://discord.gg/CFuRcPqxD7)  
+
+[![dicord](dicord.svg)](https://discord.gg/CFuRcPqxD7)   
 [네이버 카페](https://cafe.naver.com/codemasterproject)
 
 궁금한 사항이 있으시면 일차적으로 디스코드로 질문을 남겨주시고
