@@ -66,3 +66,7 @@
 ### 라이브러리
 * [Cross-Lib](https://github.com/Fabrizio-Caruso/CROSS-LIB) 
 * [MSXLib](https://github.com/theNestruo/msx-msxlib)
+
+### Z80 어셈블리 언어로 게임 제작
+[종 스크롤 비행 슈팅 게임 SCA](https://webmsx.org/?DSK=https://github.com/pdpdds/ubox_example/releases/download/v1.0/sca.dsk)
+
