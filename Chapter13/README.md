@@ -70,4 +70,5 @@
 ### Z80 어셈블리 언어로 종 스크롤 비행 슈팅 게임 제작해 보기
 * [SCA 플레이 해보기](https://webmsx.org/?DISK=https://github.com/pdpdds/ubox_example/releases/download/v1.0/sca.dsk)
 * [SCA 개발 튜토리얼](https://wikidocs.net/book/7292)  
+* [SCA 개발자 HRA님 홈페이지](http://www5d.biglobe.ne.jp/~hra/index.htm)
 
