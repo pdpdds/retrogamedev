@@ -7,8 +7,8 @@
 * [helloSDL](https://github.com/pdpdds/helloSDL)  
 
 ### GREEN 안드로이드
-[GREEN 안드로이드 버전](https://github.com/pdpdds/ubox_example/releases/download/v1.0/green_android.rar)
-[GREEN WIN32 버전](https://github.com/pdpdds/ubox_example/releases/download/v1.0/green_win32.rar)
+* [GREEN 안드로이드 버전](https://github.com/pdpdds/ubox_example/releases/download/v1.0/green_android.rar)
+* [GREEN WIN32 버전](https://github.com/pdpdds/ubox_example/releases/download/v1.0/green_win32.rar)
 
 ## 10.4 YUZA OS
 * [GREEN 프로젝트 YUZA OS 포트](https://www.youtube.com/watch?v=U8YiY9iKkjc)  
