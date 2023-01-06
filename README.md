@@ -318,7 +318,10 @@ MS-DOS 시절에 유명했던 음악 포맷인 IMS 파일을 안드로이드에�
 
 [![IMS 플레이어 안드로이드](https://img.youtube.com/vi/Bv6vTX1h_kE/0.jpg)](https://www.youtube.com/watch?v=Bv6vTX1h_kE) 
 
-[다운로드](https://play.google.com/store/apps/details?id=com.juhang.music)   
+* [다운로드](https://play.google.com/store/apps/details?id=com.juhang.music)   
+* [구버전 다운로드](https://play.google.com/store/apps/details?id=com.juhang3.imsplayer)   
+
+구버전의 경우 샘플 IMS 파일이 내장되어 있어서 IMS 음원을 바로 들어보실 수 있습니다.   
 
 ### PushOver4Droid
 한국에서는 MS-DOS 플랫폼으로 출시된 적이 있는 '아기개미 G.I'의 안드로이드 포팅 버전입니다.   
