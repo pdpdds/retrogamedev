@@ -23,6 +23,7 @@
 * [Oscar Toledo](https://nanochess.org/retro.html)  
 * [princess quest](https://nanochess.org/princess_quest.html)  
 * [프린세스 퀘스트 안드로이드](https://play.google.com/store/apps/details?id=com.juhang.fmsx_sdl)  
+* 공유폴더에는 fmsx win32 프로젝트와 안드로이드 프로젝트가 존재. 2023년 1월 6일 수정 및 정상 빌드 확인
 
 ## 크로스 플랫폼 그래픽스 라이브러리
 * [SDL](https://www.libsdl.org/)  
