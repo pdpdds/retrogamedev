@@ -1,5 +1,10 @@
 ## Appendix A - 비쥬얼 스튜디오
 * [비쥬얼 스튜디오 다운로드](https://visualstudio.microsoft.com/ko/downloads)
+* [비쥬얼 스튜디오 이전버전 다운받기](https://visualstudio.microsoft.com/ko/vs/older-downloads) 
+
+비쥬얼 스튜디오의 경우, 서적에서 사용하는 2019 버전을 다운받아도 되지만   
+2022 또는 상위 버전을 설치한 다음, 인스톨러에서 추가로 MSVC 컴파일러 2019 버전을 설치해서 활용할 수 있으니 참고하십시오.  
+
 
 ## Appendix B - SDL
 * [Lazy Foo' Productions](https://lazyfoo.net/tutorials/SDL)  
