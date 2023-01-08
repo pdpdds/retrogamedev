@@ -229,6 +229,11 @@ MSX 폭스레인저는 MS-DOS용 폭스레인저 1편을 MSX1용으로 다운그
 #### MSX 동적 디버깅 1
 [![MSX 동적 디버깅 영상](https://img.youtube.com/vi/rzzCT3oKpg0/0.jpg)](https://youtu.be/rzzCT3oKpg0) 
 
+#### MSX 동적 디버깅 2
+킹스밸리 게임에서 적과 주인공이 부딛힐시 브레이크 포인트가 히트하는 영상을 보여줍니다.   
+
+[![MSX 동적 디버깅 영상2](https://img.youtube.com/vi/xn-Tjgooq-k/0.jpg)](https://youtu.be/xn-Tjgooq-k) 
+
 ## MS-DOS
 MS-DOS에서는 현재, 새로운 게임 프로젝트를 진행하기 보다 타 플랫폼에서 개발한 게임을    
 손쉽게 도스 플랫폼으로 마이그레이션 하는 부분에 대한 연구를 진행하고 있습니다.      
