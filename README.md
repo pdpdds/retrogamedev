@@ -93,6 +93,11 @@
 * VMWmare 16 우분투 20.04 LTS
 * VirtualBox 6.1 우분투 20.04 LTS
 
+### macOS에서 MSX 개발 환경 구축하기
+확인결과 macOS에서도 MSX 개발 예제 프로젝트를 빌드할 수 있음을 확인하였습니다.   
+윈도우 운영체제에서 개발을 진행하는 것이 여의치 않다면 아래 링크의 글을   
+참조해 주세요.   
+[macOS에서 MSX 개발환경 구축하기](https://cafe.naver.com/olddos/84259)
 
 ## 공유 폴더
 [공유 폴더 1](https://drive.google.com/drive/folders/1RI1VArzqbpi0sP2sm07KxYfed2wQMgMt?usp=sharing)  
